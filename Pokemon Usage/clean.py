@@ -1,5 +1,6 @@
 import pandas as pd
 
+# Takes input JSON Chaos file
 def clean_df (json_file):
 
     raw = pd.read_json("gen8ou-0.json")
