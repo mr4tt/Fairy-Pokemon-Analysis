@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Takes input JSON Chaos file
-def clean_df (json_file, gen, format):
+def clean_df (path_to_json, gen, format):
 
     if len(format) != 2:
         return ("Not a Valid Format")
@@ -9,7 +9,7 @@ def clean_df (json_file, gen, format):
     if type(gen) != int:
         return ("Not a Valid Generation")
 
-    raw = pd.read_json("gen8ou-0.json")
+    raw = pd.read_json(path_to_json)
     df = raw[raw['data'].notna()]['data']
     
     top_mons = {}
