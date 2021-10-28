@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Takes input JSON Chaos file
+# Takes input JSON Chaos file, outputs clean DataFrame
 def clean_df (path_to_json, gen, format):
 
     if len(format) != 2:
