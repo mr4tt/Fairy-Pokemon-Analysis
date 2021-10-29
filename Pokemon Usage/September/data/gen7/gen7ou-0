@@ -1,0 +1,74 @@
+,Moves,Usage,Gen,Format,Min Rating
+Gliscor,"['earthquake', 'roost', 'defog', 'toxic', 'swordsdance', 'knockoff']",0.10380719999999999,7,ou,0
+Landorus-Therian,"['earthquake', 'uturn', 'stealthrock', 'defog', 'stoneedge', 'knockoff']",0.2180732,7,ou,0
+Venusaur-Mega,"['sludgebomb', 'gigadrain', 'synthesis', 'hiddenpowerfire', 'leechseed', 'toxic']",0.042233599999999996,7,ou,0
+Tyranitar-Mega,"['stoneedge', 'dragondance', 'earthquake', 'firepunch', 'crunch', 'icepunch']",0.0250276,7,ou,0
+Beedrill-Mega,"['poisonjab', 'drillrun', 'uturn', 'fellstinger', 'knockoff', 'xscissor']",0.0351726,7,ou,0
+Tapu Bulu,"['hornleech', 'superpower', 'woodhammer', 'stoneedge', 'swordsdance', 'protect']",0.036765099999999995,7,ou,0
+Celesteela,"['leechseed', 'flamethrower', 'protect', 'heavyslam', 'airslash', 'autotomize']",0.049427599999999995,7,ou,0
+Garchomp-Mega,"['earthquake', 'swordsdance', 'dragonclaw', 'stoneedge', 'dracometeor', 'fireblast']",0.0225483,7,ou,0
+Charizard-Mega-X,"['dragondance', 'dragonclaw', 'flareblitz', 'earthquake', 'roost', 'thunderpunch']",0.06693249999999999,7,ou,0
+Charizard-Mega-Y,"['solarbeam', 'flamethrower', 'roost', 'focusblast', 'airslash', 'fireblast']",0.06441000000000001,7,ou,0
+Scizor-Mega,"['bulletpunch', 'swordsdance', 'roost', 'uturn', 'knockoff', 'superpower']",0.054193599999999995,7,ou,0
+Tapu Koko,"['thunderbolt', 'voltswitch', 'dazzlinggleam', 'hiddenpowerice', 'uturn', 'roost']",0.12629569999999998,7,ou,0
+Breloom,"['spore', 'machpunch', 'bulletseed', 'swordsdance', 'rocktomb', 'substitute']",0.028481799999999998,7,ou,0
+Blacephalon,"['shadowball', 'flamethrower', 'fireblast', 'calmmind', 'trick', 'psychic']",0.039468699999999995,7,ou,0
+Tapu Fini,"['moonblast', 'defog', 'taunt', 'scald', 'naturesmadness', 'surf']",0.058669099999999995,7,ou,0
+Manaphy,"['tailglow', 'surf', 'icebeam', 'psychic', 'rest', 'energyball']",0.0226745,7,ou,0
+Clefable,"['moonblast', 'softboiled', 'calmmind', 'wish', 'protect', 'flamethrower']",0.0642572,7,ou,0
+Azumarill,"['aquajet', 'playrough', 'bellydrum', 'knockoff', 'liquidation', 'icepunch']",0.0499905,7,ou,0
+Jirachi,"['ironhead', 'uturn', 'wish', 'firepunch', 'zenheadbutt', 'healingwish']",0.0337212,7,ou,0
+Snorlax,"['bodyslam', 'earthquake', 'curse', 'rest', 'bellydrum', 'firepunch']",0.0244248,7,ou,0
+Alakazam-Mega,"['psychic', 'focusblast', 'shadowball', 'calmmind', 'recover', 'dazzlinggleam']",0.0495438,7,ou,0
+Ditto,"['', 'transform']",0.0249695,7,ou,0
+Bisharp,"['ironhead', 'suckerpunch', 'knockoff', 'swordsdance', 'brickbreak', 'pursuit']",0.0456928,7,ou,0
+Togekiss,"['airslash', 'dazzlinggleam', 'roost', 'flamethrower', 'thunderwave', 'aurasphere']",0.021211499999999998,7,ou,0
+Tangrowth,"['gigadrain', 'knockoff', 'earthquake', 'hiddenpowerice', 'sludgebomb', 'hiddenpowerfire']",0.029091299999999997,7,ou,0
+Gyarados,"['waterfall', 'dragondance', 'earthquake', 'bounce', 'icefang', 'crunch']",0.021611699999999998,7,ou,0
+Heatran,"['earthpower', 'stealthrock', 'magmastorm', 'toxic', 'taunt', 'lavaplume']",0.1181436,7,ou,0
+Hawlucha,"['acrobatics', 'swordsdance', 'highjumpkick', 'drainpunch', 'roost', 'substitute']",0.0630449,7,ou,0
+Swampert-Mega,"['earthquake', 'waterfall', 'icepunch', 'superpower', 'poweruppunch', 'stealthrock']",0.0590577,7,ou,0
+Gengar,"['shadowball', 'sludgewave', 'focusblast', 'sludgebomb', 'destinybond', 'dazzlinggleam']",0.0345149,7,ou,0
+Tapu Lele,"['moonblast', 'psychic', 'psyshock', 'focusblast', 'hiddenpowerfire', 'thunderbolt']",0.0687609,7,ou,0
+Weavile,"['knockoff', 'iciclecrash', 'iceshard', 'pursuit', 'lowkick', 'swordsdance']",0.0384009,7,ou,0
+Shuckle,"['stickyweb', 'stealthrock', 'toxic', 'encore', 'infestation', 'knockoff']",0.0225782,7,ou,0
+Diancie-Mega,"['moonblast', 'diamondstorm', 'earthpower', 'stealthrock', 'protect', 'hiddenpowerfire']",0.0317666,7,ou,0
+Skarmory,"['roost', 'spikes', 'whirlwind', 'bravebird', 'stealthrock', 'defog']",0.0627011,7,ou,0
+Lopunny-Mega,"['fakeout', 'highjumpkick', 'return', 'icepunch', 'drainpunch', 'poweruppunch']",0.055661699999999995,7,ou,0
+Sableye-Mega,"['recover', 'willowisp', 'knockoff', 'protect', 'calmmind', 'foulplay']",0.033445499999999996,7,ou,0
+Volcarona,"['quiverdance', 'bugbuzz', 'fierydance', 'gigadrain', 'roost', 'flamethrower']",0.062143199999999996,7,ou,0
+Mimikyu,"['playrough', 'shadowsneak', 'swordsdance', 'shadowclaw', 'drainpunch', 'destinybond']",0.041431499999999996,7,ou,0
+Magearna,"['fleurcannon', 'voltswitch', 'icebeam', 'flashcannon', 'thunderbolt', 'ironhead']",0.0961998,7,ou,0
+Ferrothorn,"['leechseed', 'gyroball', 'stealthrock', 'powerwhip', 'spikes', 'protect']",0.1410738,7,ou,0
+Toxapex,"['recover', 'scald', 'haze', 'toxic', 'toxicspikes', 'banefulbunker']",0.0789074,7,ou,0
+Magnezone,"['flashcannon', 'thunderbolt', 'hiddenpowerfire', 'voltswitch', 'discharge', 'substitute']",0.051958399999999995,7,ou,0
+Greninja,"['icebeam', 'gunkshot', 'darkpulse', 'uturn', 'hydropump', 'spikes']",0.0761524,7,ou,0
+Chansey,"['seismictoss', 'softboiled', 'toxic', 'stealthrock', 'healbell', 'aromatherapy']",0.0893346,7,ou,0
+Infernape,"['closecombat', 'machpunch', 'flareblitz', 'thunderpunch', 'firepunch', 'uturn']",0.032924,7,ou,0
+Kyurem-Black,"['fusionbolt', 'icebeam', 'freezeshock', 'earthpower', 'roost', 'dragonclaw']",0.0422569,7,ou,0
+Rotom-Wash,"['hydropump', 'voltswitch', 'willowisp', 'defog', 'painsplit', 'trick']",0.090698,7,ou,0
+Zeraora,"['plasmafists', 'closecombat', 'knockoff', 'firepunch', 'bulkup', 'drainpunch']",0.024861599999999998,7,ou,0
+Dragonite,"['dragondance', 'extremespeed', 'earthquake', 'dragonclaw', 'firepunch', 'outrage']",0.051905299999999994,7,ou,0
+Excadrill,"['earthquake', 'rapidspin', 'ironhead', 'stealthrock', 'rockslide', 'swordsdance']",0.0808072,7,ou,0
+Greninja-Ash,"['darkpulse', 'watershuriken', 'icebeam', 'hydropump', 'surf', 'spikes']",0.1631173,7,ou,0
+Keldeo,"['secretsword', 'scald', 'calmmind', 'substitute', 'hydropump', 'icywind']",0.0425957,7,ou,0
+Scizor,"['bulletpunch', 'swordsdance', 'uturn', 'roost', 'superpower', 'knockoff']",0.0274871,7,ou,0
+Zapdos,"['roost', 'heatwave', 'defog', 'discharge', 'hiddenpowerice', 'voltswitch']",0.0645843,7,ou,0
+Tornadus-Therian,"['hurricane', 'uturn', 'defog', 'knockoff', 'taunt', 'heatwave']",0.069543,7,ou,0
+Ninetales-Alola,"['auroraveil', 'moonblast', 'freezedry', 'blizzard', 'encore', 'hypnosis']",0.0226978,7,ou,0
+Kartana,"['leafblade', 'sacredsword', 'smartstrike', 'knockoff', 'swordsdance', 'psychocut']",0.10762669999999999,7,ou,0
+Garchomp,"['earthquake', 'swordsdance', 'stealthrock', 'dragonclaw', 'stoneedge', 'outrage']",0.0959125,7,ou,0
+Mawile-Mega,"['playrough', 'suckerpunch', 'swordsdance', 'knockoff', 'thunderpunch', 'ironhead']",0.0456728,7,ou,0
+Kommo-o,"['clangingscales', 'drainpunch', 'closecombat', 'poisonjab', 'bellydrum', 'substitute']",0.0493196,7,ou,0
+Gallade-Mega,"['swordsdance', 'closecombat', 'drainpunch', 'psychocut', 'zenheadbutt', 'shadowsneak']",0.0224902,7,ou,0
+Serperior,"['leafstorm', 'glare', 'hiddenpowerfire', 'substitute', 'dragonpulse', 'leechseed']",0.09550059999999999,7,ou,0
+Victini,"['vcreate', 'uturn', 'boltstrike', 'celebrate', 'zenheadbutt', 'storedpower']",0.0472372,7,ou,0
+Staraptor,"['bravebird', 'closecombat', 'uturn', 'doubleedge', 'defog', 'roost']",0.0233554,7,ou,0
+Cloyster,"['iciclespear', 'shellsmash', 'rockblast', 'iceshard', 'liquidation', 'rapidspin']",0.0298253,7,ou,0
+Gyarados-Mega,"['dragondance', 'waterfall', 'earthquake', 'crunch', 'icefang', 'substitute']",0.028607999999999998,7,ou,0
+Salamence,"['earthquake', 'dragondance', 'dragonclaw', 'fly', 'firefang', 'outrage']",0.0241907,7,ou,0
+Pinsir-Mega,"['quickattack', 'swordsdance', 'return', 'closecombat', 'earthquake', 'frustration']",0.021855799999999998,7,ou,0
+Pelipper,"['uturn', 'roost', 'hurricane', 'scald', 'defog', 'hydropump']",0.0608661,7,ou,0
+Medicham-Mega,"['fakeout', 'highjumpkick', 'icepunch', 'zenheadbutt', 'bulletpunch', 'thunderpunch']",0.0482601,7,ou,0
+Tyranitar,"['stoneedge', 'crunch', 'earthquake', 'pursuit', 'firepunch', 'rockslide']",0.054353099999999994,7,ou,0
+Espeon,"['psychic', 'dazzlinggleam', 'shadowball', 'calmmind', 'trick', 'psyshock']",0.021201499999999998,7,ou,0

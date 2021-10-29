@@ -1,0 +1,63 @@
+,Moves,Usage,Gen,Format,Min Rating
+Gliscor,"['earthquake', 'roost', 'defog', 'toxic', 'knockoff', 'stealthrock']",0.0860208,7,ou,0
+Landorus-Therian,"['earthquake', 'uturn', 'stealthrock', 'defog', 'stoneedge', 'hiddenpowerice']",0.4078174,7,ou,0
+Venusaur-Mega,"['sludgebomb', 'gigadrain', 'synthesis', 'hiddenpowerfire', 'leechseed', 'earthquake']",0.028612199999999997,7,ou,0
+Tyranitar-Mega,"['stoneedge', 'firepunch', 'dragondance', 'icepunch', 'pursuit', 'earthquake']",0.022732699999999998,7,ou,0
+Tapu Bulu,"['hornleech', 'superpower', 'woodhammer', 'stoneedge', 'swordsdance', 'protect']",0.06281489999999999,7,ou,0
+Crawdaunt,"['aquajet', 'knockoff', 'crabhammer', 'crunch', 'swordsdance', 'superpower']",0.026473899999999998,7,ou,0
+Celesteela,"['flamethrower', 'heavyslam', 'leechseed', 'protect', 'airslash', 'autotomize']",0.0647095,7,ou,0
+Charizard-Mega-X,"['dragondance', 'flareblitz', 'earthquake', 'dragonclaw', 'roost', 'firepunch']",0.054229599999999996,7,ou,0
+Charizard-Mega-Y,"['solarbeam', 'focusblast', 'roost', 'flamethrower', 'fireblast', 'airslash']",0.06493589999999999,7,ou,0
+Scizor-Mega,"['bulletpunch', 'roost', 'swordsdance', 'uturn', 'knockoff', 'superpower']",0.0648139,7,ou,0
+Tapu Koko,"['thunderbolt', 'voltswitch', 'hiddenpowerice', 'dazzlinggleam', 'uturn', 'roost']",0.2236331,7,ou,0
+Tapu Fini,"['moonblast', 'taunt', 'defog', 'naturesmadness', 'scald', 'surf']",0.1072808,7,ou,0
+Clefable,"['moonblast', 'softboiled', 'wish', 'calmmind', 'protect', 'stealthrock']",0.06526219999999999,7,ou,0
+Azumarill,"['aquajet', 'playrough', 'bellydrum', 'knockoff', 'liquidation', 'superpower']",0.0377484,7,ou,0
+Jirachi,"['ironhead', 'uturn', 'wish', 'healingwish', 'protect', 'firepunch']",0.036722199999999997,7,ou,0
+Alakazam-Mega,"['psychic', 'focusblast', 'shadowball', 'recover', 'calmmind', 'energyball']",0.060320799999999994,7,ou,0
+Ditto,"['', 'transform']",0.0210546,7,ou,0
+Bisharp,"['ironhead', 'suckerpunch', 'knockoff', 'swordsdance', 'pursuit', 'brickbreak']",0.037704999999999995,7,ou,0
+Hoopa-Unbound,"['hyperspacefury', 'gunkshot', 'drainpunch', 'zenheadbutt', 'firepunch', 'darkpulse']",0.0314756,7,ou,0
+Tangrowth,"['knockoff', 'gigadrain', 'earthquake', 'hiddenpowerice', 'hiddenpowerfire', 'sludgebomb']",0.038301499999999995,7,ou,0
+Blacephalon,"['shadowball', 'flamethrower', 'substitute', 'calmmind', 'trick', 'fireblast']",0.0477723,7,ou,0
+Heatran,"['earthpower', 'magmastorm', 'stealthrock', 'toxic', 'taunt', 'protect']",0.1617707,7,ou,0
+Hawlucha,"['acrobatics', 'swordsdance', 'highjumpkick', 'substitute', 'drainpunch', 'roost']",0.1037105,7,ou,0
+Swampert-Mega,"['earthquake', 'waterfall', 'icepunch', 'superpower', 'stealthrock', 'poweruppunch']",0.08499029999999999,7,ou,0
+Gengar,"['shadowball', 'sludgewave', 'hiddenpowerice', 'gigadrain', 'focusblast', 'trick']",0.020366699999999998,7,ou,0
+Tapu Lele,"['moonblast', 'psyshock', 'psychic', 'hiddenpowerfire', 'focusblast', 'calmmind']",0.1377427,7,ou,0
+Weavile,"['knockoff', 'iciclecrash', 'pursuit', 'iceshard', 'lowkick', 'swordsdance']",0.030794799999999997,7,ou,0
+Manaphy,"['tailglow', 'surf', 'rest', 'icebeam', 'psychic', 'toxic']",0.046124599999999995,7,ou,0
+Diancie-Mega,"['moonblast', 'earthpower', 'diamondstorm', 'stealthrock', 'protect', 'hiddenpowerfire']",0.0403463,7,ou,0
+Skarmory,"['roost', 'spikes', 'whirlwind', 'defog', 'bravebird', 'counter']",0.06445039999999999,7,ou,0
+Lopunny-Mega,"['highjumpkick', 'fakeout', 'return', 'icepunch', 'quickattack', 'frustration']",0.0560573,7,ou,0
+Sableye-Mega,"['recover', 'willowisp', 'knockoff', 'protect', 'foulplay', 'snarl']",0.0370058,7,ou,0
+Volcarona,"['quiverdance', 'bugbuzz', 'fierydance', 'hiddenpowerground', 'roost', 'flamethrower']",0.0446429,7,ou,0
+Mimikyu,"['playrough', 'swordsdance', 'shadowsneak', 'shadowclaw', 'drainpunch', 'trickroom']",0.0331925,7,ou,0
+Magearna,"['fleurcannon', 'voltswitch', 'icebeam', 'thunderbolt', 'ironhead', 'flashcannon']",0.20526419999999998,7,ou,0
+Ferrothorn,"['leechseed', 'gyroball', 'spikes', 'powerwhip', 'stealthrock', 'protect']",0.1864152,7,ou,0
+Toxapex,"['scald', 'recover', 'haze', 'toxicspikes', 'toxic', 'banefulbunker']",0.09237809999999999,7,ou,0
+Magnezone,"['flashcannon', 'hiddenpowerfire', 'thunderbolt', 'voltswitch', 'substitute', 'discharge']",0.0669129,7,ou,0
+Greninja,"['icebeam', 'gunkshot', 'uturn', 'spikes', 'hiddenpowerfire', 'hydropump']",0.0820566,7,ou,0
+Chansey,"['seismictoss', 'softboiled', 'toxic', 'stealthrock', 'healbell', 'thunderwave']",0.0940989,7,ou,0
+Kyurem-Black,"['fusionbolt', 'icebeam', 'earthpower', 'freezeshock', 'roost', 'outrage']",0.0869957,7,ou,0
+Rotom-Wash,"['voltswitch', 'hydropump', 'defog', 'willowisp', 'painsplit', 'toxic']",0.115893,7,ou,0
+Dragonite,"['dragondance', 'extremespeed', 'earthquake', 'firepunch', 'fly', 'dragonclaw']",0.0322509,7,ou,0
+Excadrill,"['earthquake', 'rapidspin', 'ironhead', 'stealthrock', 'toxic', 'rockslide']",0.10488969999999999,7,ou,0
+Greninja-Ash,"['darkpulse', 'watershuriken', 'hydropump', 'icebeam', 'spikes', 'surf']",0.21190989999999998,7,ou,0
+Keldeo,"['secretsword', 'scald', 'calmmind', 'hydropump', 'icywind', 'substitute']",0.0540663,7,ou,0
+Zapdos,"['roost', 'heatwave', 'defog', 'discharge', 'hiddenpowerice', 'voltswitch']",0.09501899999999999,7,ou,0
+Tornadus-Therian,"['hurricane', 'uturn', 'defog', 'knockoff', 'taunt', 'heatwave']",0.1402599,7,ou,0
+Kartana,"['leafblade', 'sacredsword', 'knockoff', 'smartstrike', 'swordsdance', 'defog']",0.1667757,7,ou,0
+Latias-Mega,"['icebeam', 'calmmind', 'recover', 'roost', 'storedpower', 'thunderbolt']",0.0303406,7,ou,0
+Garchomp,"['earthquake', 'stealthrock', 'swordsdance', 'stoneedge', 'outrage', 'toxic']",0.0892019,7,ou,0
+Mawile-Mega,"['playrough', 'suckerpunch', 'swordsdance', 'thunderpunch', 'knockoff', 'firefang']",0.08437309999999999,7,ou,0
+Kommo-o,"['clangingscales', 'drainpunch', 'closecombat', 'poisonjab', 'substitute', 'stealthrock']",0.0655251,7,ou,0
+Serperior,"['leafstorm', 'glare', 'hiddenpowerfire', 'substitute', 'defog', 'leechseed']",0.09532,7,ou,0
+Victini,"['vcreate', 'uturn', 'boltstrike', 'celebrate', 'storedpower', 'searingshot']",0.0616686,7,ou,0
+Gyarados-Mega,"['dragondance', 'earthquake', 'crunch', 'waterfall', 'substitute', 'taunt']",0.0299036,7,ou,0
+Mew,"['defog', 'softboiled', 'willowisp', 'stealthrock', 'roost', 'psychic']",0.020630799999999998,7,ou,0
+Pinsir-Mega,"['swordsdance', 'quickattack', 'closecombat', 'frustration', 'return', 'earthquake']",0.0365797,7,ou,0
+Pelipper,"['uturn', 'roost', 'scald', 'hurricane', 'defog', 'hydropump']",0.0885106,7,ou,0
+Medicham-Mega,"['highjumpkick', 'fakeout', 'icepunch', 'zenheadbutt', 'bulletpunch', 'thunderpunch']",0.0904802,7,ou,0
+Tyranitar,"['stoneedge', 'pursuit', 'crunch', 'earthquake', 'firepunch', 'icepunch']",0.055677899999999995,7,ou,0
+Kingdra,"['dracometeor', 'icebeam', 'hydropump', 'surf', 'yawn', 'hiddenpowergrass']",0.025934099999999998,7,ou,0
