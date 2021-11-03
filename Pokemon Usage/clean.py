@@ -8,7 +8,7 @@ def clean_df (path_to_json):
 
     metagame = raw.loc['metagame'][0]
     gen = metagame[3]
-    format = metagame[4:]
+    format_name = metagame[4:]
     rating = raw.loc["cutoff deviation"][0]
 
     df = raw[raw['data'].notna()]['data']
@@ -24,6 +24,6 @@ def clean_df (path_to_json):
 
     cleaned = pd.DataFrame.from_dict(top_mons, orient = 'index').rename(columns = {0:"Moves", 1:"Usage"})
     cleaned["Gen"] = gen
-    cleaned["Format"] = format
+    cleaned["Format"] = format_name
     cleaned["Min Rating"] = rating
     return cleaned
