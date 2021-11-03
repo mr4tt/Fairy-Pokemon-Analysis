@@ -1,0 +1,22 @@
+,Moves,Usage,Gen,Format,Min Rating
+Latios,"['recover', 'thunderbolt', 'dracometeor', 'dragonpulse']",0.5,4,ubers,0
+Jirachi,"['calmmind', 'psychic', 'thunderbolt']",0.5,4,ubers,0
+Rotom-Wash,"['trick', 'hydropump', 'thunderbolt', 'shadowball']",0.5,4,ubers,0
+Kyogre,"['surf', 'thunder', 'icebeam', 'rest', 'sleeptalk', 'calmmind']",1.0,4,ubers,0
+Palkia,"['surf', 'fireblast', 'aquatail', 'spacialrend']",0.5,4,ubers,0
+Flygon,"['outrage', 'uturn', 'earthquake', 'stoneedge']",0.5,4,ubers,0
+Breloom,"['focuspunch', 'seedbomb', 'spore', 'substitute']",0.5,4,ubers,0
+Giratina-Origin,"['aurasphere', 'calmmind', 'substitute', 'dragonpulse']",0.5,4,ubers,0
+Rayquaza,"['fireblast', 'extremespeed', 'dracometeor', 'dragonpulse']",0.5,4,ubers,0
+Suicune,"['surf', 'hydropump', 'raindance', 'icebeam']",0.5,4,ubers,0
+Mewtwo,"['calmmind', 'thunderbolt', 'psychic', 'aurasphere', 'icebeam', 'recover']",1.0,4,ubers,0
+Lugia,"['reflect', 'toxic', 'roost', 'icebeam']",0.5,4,ubers,0
+Charizard,"['blastburn', 'dragonclaw', 'fireblast', 'flamethrower']",0.5,4,ubers,0
+Nidoking,"['sludgebomb', 'surf', 'earthquake', 'megahorn']",0.5,4,ubers,0
+Jolteon,"['shockwave', 'thunder', 'thunderwave', 'return']",0.5,4,ubers,0
+Groudon,"['toxic', 'stealthrock', 'dragonclaw', 'earthquake']",0.5,4,ubers,0
+Empoleon,"['surf', 'stealthrock', 'aquajet', 'icebeam']",0.5,4,ubers,0
+Darkrai,"['darkvoid', 'darkpulse', 'thunder', 'focusblast', 'nastyplot', 'toxic']",1.0,4,ubers,0
+Gyarados,"['taunt', 'waterfall', 'stoneedge', 'dragondance']",0.5,4,ubers,0
+Deoxys-Speed,"['stealthrock', 'spikes', 'extremespeed', 'taunt']",0.5,4,ubers,0
+Moltres,"['fly', 'fireblast', 'flamethrower', 'skyattack']",0.5,4,ubers,0
