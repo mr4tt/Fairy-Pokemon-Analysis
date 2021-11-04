@@ -1,32 +1,32 @@
 ,Moves,Usage,Gen,Format,Min Rating
-Toxicroak,"['swordsdance', 'suckerpunch', 'icepunch', 'lowkick', 'gunkshot', 'crosschop']",0.5029574,4,uu,0
-Moltres,"['fireblast', 'roost', 'hiddenpowergrass', 'airslash']",0.0348386,4,uu,0
-Claydol,"['psychic', 'rapidspin', 'earthpower', 'stealthrock', 'ancientpower', 'icebeam']",0.0348386,4,uu,0
-Uxie,"['stealthrock', 'psychic', 'uturn', 'raindance', 'knockoff', 'memento']",0.4750388,4,uu,0
-Swellow,"['facade', 'uturn', 'batonpass', 'substitute', 'bravebird', 'quickattack']",0.0838815,4,uu,0
-Ambipom,"['fakeout', 'uturn', 'taunt', 'lowkick', 'seedbomb', 'aerialace']",0.037310699999999995,4,uu,0
-Registeel,"['ironhead', 'curse', 'sleeptalk', 'rest', 'explosion', 'raindance']",0.1490409,4,uu,0
-Rotom,"['thunderbolt', 'shadowball', 'hiddenpowerice', 'trick', 'signalbeam', 'hiddenpowerfire']",0.08561909999999999,4,uu,0
-Venusaur,"['sludgebomb', 'sleeppowder', 'leafstorm', 'leechseed', 'synthesis', 'powerwhip']",0.5265571,4,uu,0
-Cradily,"['rockslide', 'curse', 'rest', 'seedbomb']",0.06755309999999999,4,uu,0
-Absol,"['swordsdance', 'suckerpunch', 'nightslash', 'superpower', 'batonpass', 'pursuit']",0.0358519,4,uu,0
-Clefable,"['softboiled', 'thunderwave', 'seismictoss', 'encore', 'icebeam', 'thunderbolt']",0.5508052999999999,4,uu,0
-Torterra,"['stealthrock', 'synthesis', 'earthquake', 'woodhammer']",0.0835582,4,uu,0
-Qwilfish,"['explosion', 'poisonjab', 'swordsdance', 'waterfall', 'protect', 'spikes']",0.2346633,4,uu,0
-Mismagius,"['shadowball', 'taunt', 'willowisp', 'thunderbolt', 'painsplit', 'energyball']",0.40307899999999997,4,uu,0
-Ludicolo,"['energyball', 'raindance', 'icebeam', 'hydropump', 'seedbomb', 'icepunch']",0.2359779,4,uu,0
-Kabutops,"['stoneedge', 'swordsdance', 'aquajet', 'waterfall', 'rapidspin', 'lowkick']",0.319528,4,uu,0
-Milotic,"['recover', 'surf', 'haze', 'refresh', 'icebeam', 'hiddenpowergrass']",0.1561927,4,uu,0
-Linoone,"['bellydrum', 'seedbomb', 'return', 'extremespeed']",0.0838815,4,uu,0
-Lanturn,"['surf', 'thunderbolt', 'healbell', 'icebeam', 'toxic', 'discharge']",0.0348386,4,uu,0
-Feraligatr,"['waterfall', 'return', 'aquajet', 'swordsdance', 'crunch', 'dragondance']",0.3355259,4,uu,0
-Azumarill,"['aquajet', 'return', 'waterfall', 'icepunch', 'bodyslam', 'doubleedge']",0.0679562,4,uu,0
-Dugtrio,"['sludgebomb', 'earthpower', 'hiddenpowerice', 'toxic', 'earthquake', 'pursuit']",0.2329224,4,uu,0
-Arcanine,"['extremespeed', 'thunderfang', 'flareblitz', 'morningsun', 'crunch', 'dragonpulse']",0.0835501,4,uu,0
-Omastar,"['surf', 'hiddenpowergrass', 'earthpower', 'icebeam']",0.2346633,4,uu,0
-Hippopotas,"['roar', 'stealthrock', 'earthquake', 'yawn']",0.06755309999999999,4,uu,0
-Alakazam,"['psychic', 'focusblast', 'shadowball', 'substitute', 'signalbeam', 'energyball']",0.0845715,4,uu,0
-Donphan,"['rapidspin', 'earthquake', 'headsmash', 'assurance', 'iceshard', 'stealthrock']",0.06755309999999999,4,uu,0
-Walrein,"['encore', 'yawn', 'block', 'icebeam', 'protect', 'blizzard']",0.0842846,4,uu,0
-Electrode,"['explosion', 'raindance', 'thunder', 'taunt', 'hiddenpowerice', 'lightscreen']",0.2359779,4,uu,0
-Rhyperior,"['stealthrock', 'earthquake', 'megahorn', 'stoneedge', 'rockpolish', 'substitute']",0.3365391,4,uu,0
+Toxicroak,"['swordsdance', 'suckerpunch', 'icepunch', 'lowkick', 'gunkshot', 'crosschop']",0.5029574,4,uu,1630.0
+Moltres,"['fireblast', 'roost', 'hiddenpowergrass', 'airslash']",0.0348386,4,uu,1630.0
+Claydol,"['psychic', 'rapidspin', 'earthpower', 'stealthrock', 'ancientpower', 'icebeam']",0.0348386,4,uu,1630.0
+Uxie,"['stealthrock', 'psychic', 'uturn', 'raindance', 'knockoff', 'memento']",0.4750388,4,uu,1630.0
+Swellow,"['facade', 'uturn', 'batonpass', 'substitute', 'bravebird', 'quickattack']",0.0838815,4,uu,1630.0
+Ambipom,"['fakeout', 'uturn', 'taunt', 'lowkick', 'seedbomb', 'aerialace']",0.037310699999999995,4,uu,1630.0
+Registeel,"['ironhead', 'curse', 'sleeptalk', 'rest', 'explosion', 'raindance']",0.1490409,4,uu,1630.0
+Rotom,"['thunderbolt', 'shadowball', 'hiddenpowerice', 'trick', 'signalbeam', 'hiddenpowerfire']",0.08561909999999999,4,uu,1630.0
+Venusaur,"['sludgebomb', 'sleeppowder', 'leafstorm', 'leechseed', 'synthesis', 'powerwhip']",0.5265571,4,uu,1630.0
+Cradily,"['rockslide', 'curse', 'rest', 'seedbomb']",0.06755309999999999,4,uu,1630.0
+Absol,"['swordsdance', 'suckerpunch', 'nightslash', 'superpower', 'batonpass', 'pursuit']",0.0358519,4,uu,1630.0
+Clefable,"['softboiled', 'thunderwave', 'seismictoss', 'encore', 'icebeam', 'thunderbolt']",0.5508052999999999,4,uu,1630.0
+Torterra,"['stealthrock', 'synthesis', 'earthquake', 'woodhammer']",0.0835582,4,uu,1630.0
+Qwilfish,"['explosion', 'poisonjab', 'swordsdance', 'waterfall', 'protect', 'spikes']",0.2346633,4,uu,1630.0
+Mismagius,"['shadowball', 'taunt', 'willowisp', 'thunderbolt', 'painsplit', 'energyball']",0.40307899999999997,4,uu,1630.0
+Ludicolo,"['energyball', 'raindance', 'icebeam', 'hydropump', 'seedbomb', 'icepunch']",0.2359779,4,uu,1630.0
+Kabutops,"['stoneedge', 'swordsdance', 'aquajet', 'waterfall', 'rapidspin', 'lowkick']",0.319528,4,uu,1630.0
+Milotic,"['recover', 'surf', 'haze', 'refresh', 'icebeam', 'hiddenpowergrass']",0.1561927,4,uu,1630.0
+Linoone,"['bellydrum', 'seedbomb', 'return', 'extremespeed']",0.0838815,4,uu,1630.0
+Lanturn,"['surf', 'thunderbolt', 'healbell', 'icebeam', 'toxic', 'discharge']",0.0348386,4,uu,1630.0
+Feraligatr,"['waterfall', 'return', 'aquajet', 'swordsdance', 'crunch', 'dragondance']",0.3355259,4,uu,1630.0
+Azumarill,"['aquajet', 'return', 'waterfall', 'icepunch', 'bodyslam', 'doubleedge']",0.0679562,4,uu,1630.0
+Dugtrio,"['sludgebomb', 'earthpower', 'hiddenpowerice', 'toxic', 'earthquake', 'pursuit']",0.2329224,4,uu,1630.0
+Arcanine,"['extremespeed', 'thunderfang', 'flareblitz', 'morningsun', 'crunch', 'dragonpulse']",0.0835501,4,uu,1630.0
+Omastar,"['surf', 'hiddenpowergrass', 'earthpower', 'icebeam']",0.2346633,4,uu,1630.0
+Hippopotas,"['roar', 'stealthrock', 'earthquake', 'yawn']",0.06755309999999999,4,uu,1630.0
+Alakazam,"['psychic', 'focusblast', 'shadowball', 'substitute', 'signalbeam', 'energyball']",0.0845715,4,uu,1630.0
+Donphan,"['rapidspin', 'earthquake', 'headsmash', 'assurance', 'iceshard', 'stealthrock']",0.06755309999999999,4,uu,1630.0
+Walrein,"['encore', 'yawn', 'block', 'icebeam', 'protect', 'blizzard']",0.0842846,4,uu,1630.0
+Electrode,"['explosion', 'raindance', 'thunder', 'taunt', 'hiddenpowerice', 'lightscreen']",0.2359779,4,uu,1630.0
+Rhyperior,"['stealthrock', 'earthquake', 'megahorn', 'stoneedge', 'rockpolish', 'substitute']",0.3365391,4,uu,1630.0

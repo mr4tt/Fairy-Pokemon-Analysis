@@ -12,7 +12,7 @@ def clean_df(path_to_json):
     metagame = raw.loc['metagame'][0]
     gen = metagame[3]
     format_name = metagame[4:]
-    rating = raw.loc["cutoff deviation"][0]
+    rating = raw.loc["cutoff"][0]
 
     df = raw[raw['data'].notna()]['data']
 
@@ -55,7 +55,7 @@ def old_clean(path_to_json):
         metagame = raw.loc['metagame'][0]
         gen = metagame[3]
         format_name = metagame[4:]
-    rating = raw.loc["cutoff deviation"][0]
+    rating = raw.loc["cutoff"][0]
 
     df = raw[raw['data'].notna()]['data']
 
