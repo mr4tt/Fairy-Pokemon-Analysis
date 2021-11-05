@@ -1,1 +1,447 @@
-{"info": {"cutoff": 0.0, "cutoff deviation": 0, "metagame": "gen4ubers", "number of battles": 2}, "data": {"Latios": {"Abilities": {"levitate": 1.0}, "Items": {"souldew": 1.0}, "Raw count": 1, "Spreads": {"Timid:4/0/0/252/0/252": 1.0}, "Checks and Counters": {}, "Moves": {"recover": 1.0, "thunderbolt": 1.0, "dracometeor": 1.0, "dragonpulse": 1.0}, "Teammates": {"Mewtwo": 0.5, "Groudon": 0.75, "Darkrai": 0.5, "Rayquaza": 0.75, "Kyogre": 0.5}}, "Jirachi": {"Abilities": {"serenegrace": 1.0}, "Items": {"leftovers": 1.0}, "Raw count": 1, "Spreads": {"Timid:0/0/0/252/0/252": 1.0}, "Checks and Counters": {}, "Moves": {"calmmind": 1.0, "psychic": 1.0, "thunderbolt": 1.0}, "Teammates": {"Breloom": 0.75, "Rotom-Wash": 0.75, "Gyarados": 0.75, "Flygon": 0.75, "Empoleon": 0.75}}, "Rotom-Wash": {"Abilities": {"levitate": 1.0}, "Items": {"choicescarf": 1.0}, "Raw count": 1, "Spreads": {"Timid:0/0/0/252/4/252": 1.0}, "Checks and Counters": {}, "Moves": {"trick": 1.0, "hydropump": 1.0, "thunderbolt": 1.0, "shadowball": 1.0}, "Teammates": {"Breloom": 0.75, "Jirachi": 0.75, "Gyarados": 0.75, "Flygon": 0.75, "Empoleon": 0.75}}, "Kyogre": {"Abilities": {"drizzle": 2.0}, "Items": {"leftovers": 2.0}, "Raw count": 2, "Spreads": {"Modest:240/0/244/0/0/24": 1.0, "Serious:4/0/0/252/0/252": 1.0}, "Checks and Counters": {}, "Moves": {"surf": 2.0, "thunder": 1.0, "icebeam": 1.0, "rest": 1.0, "sleeptalk": 1.0, "calmmind": 1.0, "waterspout": 1.0}, "Teammates": {"Latios": 0.5, "Palkia": 0.5, "Giratina-Origin": 0.5, "Rayquaza": 0.5, "Mewtwo": 0.0, "Groudon": 0.5, "Lugia": 0.5, "Darkrai": 1.0, "Deoxys-Speed": 0.5}}, "Palkia": {"Abilities": {"pressure": 1.0}, "Items": {"habanberry": 1.0}, "Raw count": 1, "Spreads": {"Hasty:0/4/0/252/0/252": 1.0}, "Checks and Counters": {}, "Moves": {"surf": 1.0, "fireblast": 1.0, "aquatail": 1.0, "spacialrend": 1.0}, "Teammates": {"Giratina-Origin": 0.75, "Lugia": 0.75, "Darkrai": 0.5, "Deoxys-Speed": 0.75, "Kyogre": 0.5}}, "Flygon": {"Abilities": {"levitate": 1.0}, "Items": {"choiceband": 1.0}, "Raw count": 1, "Spreads": {"Adamant:0/252/0/0/4/252": 1.0}, "Checks and Counters": {}, "Moves": {"outrage": 1.0, "uturn": 1.0, "earthquake": 1.0, "stoneedge": 1.0}, "Teammates": {"Breloom": 0.75, "Rotom-Wash": 0.75, "Gyarados": 0.75, "Jirachi": 0.75, "Empoleon": 0.75}}, "Breloom": {"Abilities": {"poisonheal": 1.0}, "Items": {"toxicorb": 1.0}, "Raw count": 1, "Spreads": {"Adamant:232/252/0/0/0/24": 1.0}, "Checks and Counters": {}, "Moves": {"focuspunch": 1.0, "seedbomb": 1.0, "spore": 1.0, "substitute": 1.0}, "Teammates": {"Jirachi": 0.75, "Rotom-Wash": 0.75, "Gyarados": 0.75, "Flygon": 0.75, "Empoleon": 0.75}}, "Giratina-Origin": {"Abilities": {"levitate": 1.0}, "Items": {"griseousorb": 1.0}, "Raw count": 1, "Spreads": {"Modest:84/0/0/216/96/112": 1.0}, "Checks and Counters": {}, "Moves": {"aurasphere": 1.0, "calmmind": 1.0, "substitute": 1.0, "dragonpulse": 1.0}, "Teammates": {"Darkrai": 0.5, "Lugia": 0.75, "Deoxys-Speed": 0.75, "Palkia": 0.75, "Kyogre": 0.5}}, "Rayquaza": {"Abilities": {"airlock": 1.0}, "Items": {"leftovers": 1.0}, "Raw count": 1, "Spreads": {"Mild:252/4/0/252/0/0": 1.0}, "Checks and Counters": {}, "Moves": {"fireblast": 1.0, "extremespeed": 1.0, "dracometeor": 1.0, "dragonpulse": 1.0}, "Teammates": {"Latios": 0.75, "Groudon": 0.75, "Mewtwo": 0.5, "Darkrai": 0.5, "Kyogre": 0.5}}, "Suicune": {"Abilities": {"pressure": 1.0}, "Items": {"seaincense": 1.0}, "Raw count": 1, "Spreads": {"Naive:84/120/92/32/124/56": 1.0}, "Checks and Counters": {}, "Moves": {"surf": 1.0, "hydropump": 1.0, "raindance": 1.0, "icebeam": 1.0}, "Teammates": {"Moltres": 0.75, "Nidoking": 0.75, "Charizard": 0.75, "Jolteon": 0.75, "Mewtwo": 0.5}}, "Mewtwo": {"Abilities": {"pressure": 2.0}, "Items": {"leftovers": 1.0, "kingsrock": 1.0}, "Raw count": 2, "Spreads": {"Timid:4/0/0/252/0/252": 1.0, "Quiet:0/28/32/252/104/92": 1.0}, "Checks and Counters": {}, "Moves": {"thunderbolt": 1.0, "calmmind": 2.0, "psychic": 1.0, "aurasphere": 1.0, "icebeam": 1.0, "recover": 1.0, "swift": 1.0}, "Teammates": {"Latios": 0.5, "Charizard": 0.5, "Rayquaza": 0.5, "Suicune": 0.5, "Kyogre": 0.0, "Nidoking": 0.5, "Jolteon": 0.5, "Groudon": 0.5, "Darkrai": 0.0, "Moltres": 0.5}}, "Lugia": {"Abilities": {"pressure": 1.0}, "Items": {"leftovers": 1.0}, "Raw count": 1, "Spreads": {"Timid:252/0/64/0/0/192": 1.0}, "Checks and Counters": {}, "Moves": {"reflect": 1.0, "toxic": 1.0, "roost": 1.0, "icebeam": 1.0}, "Teammates": {"Giratina-Origin": 0.75, "Darkrai": 0.5, "Deoxys-Speed": 0.75, "Palkia": 0.75, "Kyogre": 0.5}}, "Charizard": {"Abilities": {"blaze": 1.0}, "Items": {"quickclaw": 1.0}, "Raw count": 1, "Spreads": {"Calm:88/116/84/96/52/72": 1.0}, "Checks and Counters": {}, "Moves": {"blastburn": 1.0, "dragonclaw": 1.0, "fireblast": 1.0, "flamethrower": 1.0}, "Teammates": {"Moltres": 0.75, "Nidoking": 0.75, "Suicune": 0.75, "Jolteon": 0.75, "Mewtwo": 0.5}}, "Nidoking": {"Abilities": {"poisonpoint": 1.0}, "Items": {"quickclaw": 1.0}, "Raw count": 1, "Spreads": {"Careful:0/144/0/180/40/144": 1.0}, "Checks and Counters": {}, "Moves": {"sludgebomb": 1.0, "surf": 1.0, "earthquake": 1.0, "megahorn": 1.0}, "Teammates": {"Moltres": 0.75, "Mewtwo": 0.5, "Suicune": 0.75, "Jolteon": 0.75, "Charizard": 0.75}}, "Jolteon": {"Abilities": {"voltabsorb": 1.0}, "Items": {"quickclaw": 1.0}, "Raw count": 1, "Spreads": {"Docile:0/0/4/252/0/252": 1.0}, "Checks and Counters": {}, "Moves": {"shockwave": 1.0, "thunder": 1.0, "thunderwave": 1.0, "return": 1.0}, "Teammates": {"Moltres": 0.75, "Mewtwo": 0.5, "Nidoking": 0.75, "Suicune": 0.75, "Charizard": 0.75}}, "Groudon": {"Abilities": {"drought": 1.0}, "Items": {"leftovers": 1.0}, "Raw count": 1, "Spreads": {"Impish:252/4/252/0/0/0": 1.0}, "Checks and Counters": {}, "Moves": {"toxic": 1.0, "stealthrock": 1.0, "dragonclaw": 1.0, "earthquake": 1.0}, "Teammates": {"Latios": 0.75, "Mewtwo": 0.5, "Darkrai": 0.5, "Rayquaza": 0.75, "Kyogre": 0.5}}, "Empoleon": {"Abilities": {"torrent": 1.0}, "Items": {"focussash": 1.0}, "Raw count": 1, "Spreads": {"Modest:152/0/0/252/0/104": 1.0}, "Checks and Counters": {}, "Moves": {"surf": 1.0, "stealthrock": 1.0, "aquajet": 1.0, "icebeam": 1.0}, "Teammates": {"Breloom": 0.75, "Rotom-Wash": 0.75, "Gyarados": 0.75, "Jirachi": 0.75, "Flygon": 0.75}}, "Darkrai": {"Abilities": {"baddreams": 2.0}, "Items": {"focussash": 1.0, "leftovers": 1.0}, "Raw count": 2, "Spreads": {"Timid:0/0/0/252/4/252": 1.0, "Timid:252/0/0/4/0/252": 1.0}, "Checks and Counters": {}, "Moves": {"darkvoid": 2.0, "darkpulse": 2.0, "thunder": 1.0, "focusblast": 1.0, "nastyplot": 1.0, "toxic": 1.0}, "Teammates": {"Latios": 0.5, "Lugia": 0.5, "Palkia": 0.5, "Giratina-Origin": 0.5, "Rayquaza": 0.5, "Mewtwo": 0.0, "Groudon": 0.5, "Kyogre": 1.0, "Deoxys-Speed": 0.5}}, "Gyarados": {"Abilities": {"intimidate": 1.0}, "Items": {"leftovers": 1.0}, "Raw count": 1, "Spreads": {"Adamant:144/72/96/0/0/196": 1.0}, "Checks and Counters": {}, "Moves": {"taunt": 1.0, "waterfall": 1.0, "stoneedge": 1.0, "dragondance": 1.0}, "Teammates": {"Flygon": 0.75, "Breloom": 0.75, "Rotom-Wash": 0.75, "Jirachi": 0.75, "Empoleon": 0.75}}, "Deoxys-Speed": {"Abilities": {"pressure": 1.0}, "Items": {"focussash": 1.0}, "Raw count": 1, "Spreads": {"Jolly:0/252/4/0/0/252": 1.0}, "Checks and Counters": {}, "Moves": {"stealthrock": 1.0, "spikes": 1.0, "extremespeed": 1.0, "taunt": 1.0}, "Teammates": {"Giratina-Origin": 0.75, "Lugia": 0.75, "Darkrai": 0.5, "Palkia": 0.75, "Kyogre": 0.5}}, "Moltres": {"Abilities": {"pressure": 1.0}, "Items": {"quickclaw": 1.0}, "Raw count": 1, "Spreads": {"Quirky:20/120/64/104/84/116": 1.0}, "Checks and Counters": {}, "Moves": {"fly": 1.0, "fireblast": 1.0, "flamethrower": 1.0, "skyattack": 1.0}, "Teammates": {"Charizard": 0.75, "Mewtwo": 0.5, "Suicune": 0.75, "Jolteon": 0.75, "Nidoking": 0.75}}}}
+{
+  "info": {
+    "cutoff": 0.0,
+    "cutoff deviation": 0,
+    "metagame": "gen4ubers",
+    "number of battles": 2
+  },
+  "data": {
+    "Latios": {
+      "Abilities": { "levitate": 1.0 },
+      "Items": { "souldew": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Timid:4/0/0/252/0/252": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "recover": 1.0,
+        "thunderbolt": 1.0,
+        "dracometeor": 1.0,
+        "dragonpulse": 1.0
+      },
+      "Teammates": {
+        "Mewtwo": 0.5,
+        "Groudon": 0.75,
+        "Darkrai": 0.5,
+        "Rayquaza": 0.75,
+        "Kyogre": 0.5
+      }
+    },
+    "Jirachi": {
+      "Abilities": { "serenegrace": 1.0 },
+      "Items": { "leftovers": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Timid:0/0/0/252/0/252": 1.0 },
+      "Checks and Counters": {},
+      "Moves": { "calmmind": 1.0, "psychic": 1.0, "thunderbolt": 1.0 },
+      "Teammates": {
+        "Breloom": 0.75,
+        "Rotom-Wash": 0.75,
+        "Gyarados": 0.75,
+        "Flygon": 0.75,
+        "Empoleon": 0.75
+      }
+    },
+    "Rotom-Wash": {
+      "Abilities": { "levitate": 1.0 },
+      "Items": { "choicescarf": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Timid:0/0/0/252/4/252": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "trick": 1.0,
+        "hydropump": 1.0,
+        "thunderbolt": 1.0,
+        "shadowball": 1.0
+      },
+      "Teammates": {
+        "Breloom": 0.75,
+        "Jirachi": 0.75,
+        "Gyarados": 0.75,
+        "Flygon": 0.75,
+        "Empoleon": 0.75
+      }
+    },
+    "Kyogre": {
+      "Abilities": { "drizzle": 2.0 },
+      "Items": { "leftovers": 2.0 },
+      "Raw count": 2,
+      "Spreads": {
+        "Modest:240/0/244/0/0/24": 1.0,
+        "Serious:4/0/0/252/0/252": 1.0
+      },
+      "Checks and Counters": {},
+      "Moves": {
+        "surf": 2.0,
+        "thunder": 1.0,
+        "icebeam": 1.0,
+        "rest": 1.0,
+        "sleeptalk": 1.0,
+        "calmmind": 1.0,
+        "waterspout": 1.0
+      },
+      "Teammates": {
+        "Latios": 0.5,
+        "Palkia": 0.5,
+        "Giratina-Origin": 0.5,
+        "Rayquaza": 0.5,
+        "Mewtwo": 0.0,
+        "Groudon": 0.5,
+        "Lugia": 0.5,
+        "Darkrai": 1.0,
+        "Deoxys-Speed": 0.5
+      }
+    },
+    "Palkia": {
+      "Abilities": { "pressure": 1.0 },
+      "Items": { "habanberry": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Hasty:0/4/0/252/0/252": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "surf": 1.0,
+        "fireblast": 1.0,
+        "aquatail": 1.0,
+        "spacialrend": 1.0
+      },
+      "Teammates": {
+        "Giratina-Origin": 0.75,
+        "Lugia": 0.75,
+        "Darkrai": 0.5,
+        "Deoxys-Speed": 0.75,
+        "Kyogre": 0.5
+      }
+    },
+    "Flygon": {
+      "Abilities": { "levitate": 1.0 },
+      "Items": { "choiceband": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Adamant:0/252/0/0/4/252": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "outrage": 1.0,
+        "uturn": 1.0,
+        "earthquake": 1.0,
+        "stoneedge": 1.0
+      },
+      "Teammates": {
+        "Breloom": 0.75,
+        "Rotom-Wash": 0.75,
+        "Gyarados": 0.75,
+        "Jirachi": 0.75,
+        "Empoleon": 0.75
+      }
+    },
+    "Breloom": {
+      "Abilities": { "poisonheal": 1.0 },
+      "Items": { "toxicorb": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Adamant:232/252/0/0/0/24": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "focuspunch": 1.0,
+        "seedbomb": 1.0,
+        "spore": 1.0,
+        "substitute": 1.0
+      },
+      "Teammates": {
+        "Jirachi": 0.75,
+        "Rotom-Wash": 0.75,
+        "Gyarados": 0.75,
+        "Flygon": 0.75,
+        "Empoleon": 0.75
+      }
+    },
+    "Giratina-Origin": {
+      "Abilities": { "levitate": 1.0 },
+      "Items": { "griseousorb": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Modest:84/0/0/216/96/112": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "aurasphere": 1.0,
+        "calmmind": 1.0,
+        "substitute": 1.0,
+        "dragonpulse": 1.0
+      },
+      "Teammates": {
+        "Darkrai": 0.5,
+        "Lugia": 0.75,
+        "Deoxys-Speed": 0.75,
+        "Palkia": 0.75,
+        "Kyogre": 0.5
+      }
+    },
+    "Rayquaza": {
+      "Abilities": { "airlock": 1.0 },
+      "Items": { "leftovers": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Mild:252/4/0/252/0/0": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "fireblast": 1.0,
+        "extremespeed": 1.0,
+        "dracometeor": 1.0,
+        "dragonpulse": 1.0
+      },
+      "Teammates": {
+        "Latios": 0.75,
+        "Groudon": 0.75,
+        "Mewtwo": 0.5,
+        "Darkrai": 0.5,
+        "Kyogre": 0.5
+      }
+    },
+    "Suicune": {
+      "Abilities": { "pressure": 1.0 },
+      "Items": { "seaincense": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Naive:84/120/92/32/124/56": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "surf": 1.0,
+        "hydropump": 1.0,
+        "raindance": 1.0,
+        "icebeam": 1.0
+      },
+      "Teammates": {
+        "Moltres": 0.75,
+        "Nidoking": 0.75,
+        "Charizard": 0.75,
+        "Jolteon": 0.75,
+        "Mewtwo": 0.5
+      }
+    },
+    "Mewtwo": {
+      "Abilities": { "pressure": 2.0 },
+      "Items": { "leftovers": 1.0, "kingsrock": 1.0 },
+      "Raw count": 2,
+      "Spreads": {
+        "Timid:4/0/0/252/0/252": 1.0,
+        "Quiet:0/28/32/252/104/92": 1.0
+      },
+      "Checks and Counters": {},
+      "Moves": {
+        "thunderbolt": 1.0,
+        "calmmind": 2.0,
+        "psychic": 1.0,
+        "aurasphere": 1.0,
+        "icebeam": 1.0,
+        "recover": 1.0,
+        "swift": 1.0
+      },
+      "Teammates": {
+        "Latios": 0.5,
+        "Charizard": 0.5,
+        "Rayquaza": 0.5,
+        "Suicune": 0.5,
+        "Kyogre": 0.0,
+        "Nidoking": 0.5,
+        "Jolteon": 0.5,
+        "Groudon": 0.5,
+        "Darkrai": 0.0,
+        "Moltres": 0.5
+      }
+    },
+    "Lugia": {
+      "Abilities": { "pressure": 1.0 },
+      "Items": { "leftovers": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Timid:252/0/64/0/0/192": 1.0 },
+      "Checks and Counters": {},
+      "Moves": { "reflect": 1.0, "toxic": 1.0, "roost": 1.0, "icebeam": 1.0 },
+      "Teammates": {
+        "Giratina-Origin": 0.75,
+        "Darkrai": 0.5,
+        "Deoxys-Speed": 0.75,
+        "Palkia": 0.75,
+        "Kyogre": 0.5
+      }
+    },
+    "Charizard": {
+      "Abilities": { "blaze": 1.0 },
+      "Items": { "quickclaw": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Calm:88/116/84/96/52/72": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "blastburn": 1.0,
+        "dragonclaw": 1.0,
+        "fireblast": 1.0,
+        "flamethrower": 1.0
+      },
+      "Teammates": {
+        "Moltres": 0.75,
+        "Nidoking": 0.75,
+        "Suicune": 0.75,
+        "Jolteon": 0.75,
+        "Mewtwo": 0.5
+      }
+    },
+    "Nidoking": {
+      "Abilities": { "poisonpoint": 1.0 },
+      "Items": { "quickclaw": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Careful:0/144/0/180/40/144": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "sludgebomb": 1.0,
+        "surf": 1.0,
+        "earthquake": 1.0,
+        "megahorn": 1.0
+      },
+      "Teammates": {
+        "Moltres": 0.75,
+        "Mewtwo": 0.5,
+        "Suicune": 0.75,
+        "Jolteon": 0.75,
+        "Charizard": 0.75
+      }
+    },
+    "Jolteon": {
+      "Abilities": { "voltabsorb": 1.0 },
+      "Items": { "quickclaw": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Docile:0/0/4/252/0/252": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "shockwave": 1.0,
+        "thunder": 1.0,
+        "thunderwave": 1.0,
+        "return": 1.0
+      },
+      "Teammates": {
+        "Moltres": 0.75,
+        "Mewtwo": 0.5,
+        "Nidoking": 0.75,
+        "Suicune": 0.75,
+        "Charizard": 0.75
+      }
+    },
+    "Groudon": {
+      "Abilities": { "drought": 1.0 },
+      "Items": { "leftovers": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Impish:252/4/252/0/0/0": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "toxic": 1.0,
+        "stealthrock": 1.0,
+        "dragonclaw": 1.0,
+        "earthquake": 1.0
+      },
+      "Teammates": {
+        "Latios": 0.75,
+        "Mewtwo": 0.5,
+        "Darkrai": 0.5,
+        "Rayquaza": 0.75,
+        "Kyogre": 0.5
+      }
+    },
+    "Empoleon": {
+      "Abilities": { "torrent": 1.0 },
+      "Items": { "focussash": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Modest:152/0/0/252/0/104": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "surf": 1.0,
+        "stealthrock": 1.0,
+        "aquajet": 1.0,
+        "icebeam": 1.0
+      },
+      "Teammates": {
+        "Breloom": 0.75,
+        "Rotom-Wash": 0.75,
+        "Gyarados": 0.75,
+        "Jirachi": 0.75,
+        "Flygon": 0.75
+      }
+    },
+    "Darkrai": {
+      "Abilities": { "baddreams": 2.0 },
+      "Items": { "focussash": 1.0, "leftovers": 1.0 },
+      "Raw count": 2,
+      "Spreads": { "Timid:0/0/0/252/4/252": 1.0, "Timid:252/0/0/4/0/252": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "darkvoid": 2.0,
+        "darkpulse": 2.0,
+        "thunder": 1.0,
+        "focusblast": 1.0,
+        "nastyplot": 1.0,
+        "toxic": 1.0
+      },
+      "Teammates": {
+        "Latios": 0.5,
+        "Lugia": 0.5,
+        "Palkia": 0.5,
+        "Giratina-Origin": 0.5,
+        "Rayquaza": 0.5,
+        "Mewtwo": 0.0,
+        "Groudon": 0.5,
+        "Kyogre": 1.0,
+        "Deoxys-Speed": 0.5
+      }
+    },
+    "Gyarados": {
+      "Abilities": { "intimidate": 1.0 },
+      "Items": { "leftovers": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Adamant:144/72/96/0/0/196": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "taunt": 1.0,
+        "waterfall": 1.0,
+        "stoneedge": 1.0,
+        "dragondance": 1.0
+      },
+      "Teammates": {
+        "Flygon": 0.75,
+        "Breloom": 0.75,
+        "Rotom-Wash": 0.75,
+        "Jirachi": 0.75,
+        "Empoleon": 0.75
+      }
+    },
+    "Deoxys-Speed": {
+      "Abilities": { "pressure": 1.0 },
+      "Items": { "focussash": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Jolly:0/252/4/0/0/252": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "stealthrock": 1.0,
+        "spikes": 1.0,
+        "extremespeed": 1.0,
+        "taunt": 1.0
+      },
+      "Teammates": {
+        "Giratina-Origin": 0.75,
+        "Lugia": 0.75,
+        "Darkrai": 0.5,
+        "Palkia": 0.75,
+        "Kyogre": 0.5
+      }
+    },
+    "Moltres": {
+      "Abilities": { "pressure": 1.0 },
+      "Items": { "quickclaw": 1.0 },
+      "Raw count": 1,
+      "Spreads": { "Quirky:20/120/64/104/84/116": 1.0 },
+      "Checks and Counters": {},
+      "Moves": {
+        "fly": 1.0,
+        "fireblast": 1.0,
+        "flamethrower": 1.0,
+        "skyattack": 1.0
+      },
+      "Teammates": {
+        "Charizard": 0.75,
+        "Mewtwo": 0.5,
+        "Suicune": 0.75,
+        "Jolteon": 0.75,
+        "Nidoking": 0.75
+      }
+    }
+  }
+}

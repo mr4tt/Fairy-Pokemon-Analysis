@@ -63,7 +63,7 @@ def old_clean(path_to_json):
     ix = list(df.index)
 
     for row in range(len(df)):
-        if df[row]["Raw count"]/numBattles >= .02:
+        if df[row]["Raw count"]/numBattles >= .001:
             mon = ix[row]
             top_6 = list(dict(sorted(df[row]['Moves'].items(
             ), key=lambda item: item[1], reverse=True)))[:6]

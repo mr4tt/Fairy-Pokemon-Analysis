@@ -1,0 +1,67 @@
+name,Moves,Usage,Gen,Format,Min Rating
+Durant,"['xscissor', 'superpower', 'substitute', 'entrainment']",0.08333333333333333,5,ubers,0.0
+Giratina,"['rest', 'sleeptalk', 'willowisp', 'roar', 'dragontail', 'earthpower']",0.4166666666666667,5,ubers,0.0
+Palkia,"['spacialrend', 'surf', 'thunder', 'fireblast', 'aurasphere', 'flamethrower']",0.75,5,ubers,0.0
+Weavile,"['iceshard', 'icebeam', 'blizzard', 'calmmind', 'icepunch', 'lowkick']",0.16666666666666666,5,ubers,0.0
+Zekrom,"['boltstrike', 'dracometeor', 'fusionbolt', 'dragonclaw', 'crunch', 'flashcannon']",0.75,5,ubers,0.0
+Arceus,"['extremespeed', 'shadowclaw', 'swordsdance', 'earthquake', 'blizzard', 'roar']",0.4166666666666667,5,ubers,0.0
+Slowbro,"['calmmind', 'irondefense', 'block', 'slackoff']",0.08333333333333333,5,ubers,0.0
+Tyranitar,"['stealthrock', 'stoneedge', 'pursuit', 'superpower', 'earthquake', 'flamethrower']",0.4166666666666667,5,ubers,0.0
+Heatran,"['flashcannon', 'eruption', 'earthpower', 'darkpulse']",0.08333333333333333,5,ubers,0.0
+Mewtwo,"['psystrike', 'calmmind', 'icebeam', 'aurasphere', 'taunt', 'thunder']",0.5,5,ubers,0.0
+Deoxys-Speed,"['spikes', 'taunt', 'stealthrock', 'darkpulse', 'zapcannon', 'focuspunch']",0.25,5,ubers,0.0
+Terrakion,"['stoneedge', 'earthquake', 'focusblast', 'closecombat', 'ironhead', 'block']",0.16666666666666666,5,ubers,0.0
+Arceus-Ghost,"['recover', 'judgment', 'calmmind', 'focusblast', 'flamethrower']",0.16666666666666666,5,ubers,0.0
+Gliscor,"['toxic', 'taunt', 'earthquake', 'substitute']",0.25,5,ubers,0.0
+Charizard,"['overheat', 'flareblitz', 'outrage', 'fireblast', 'dragonrush', 'focuspunch']",0.25,5,ubers,0.0
+Ampharos,"['electroball', 'discharge', 'chargebeam', 'cottonguard']",0.08333333333333333,5,ubers,0.0
+Rayquaza,"['vcreate', 'extremespeed', 'dracometeor', 'thunder', 'dragonclaw', 'flamethrower']",0.5833333333333334,5,ubers,0.0
+Reshiram,"['blueflare', 'dracometeor', 'dragonpulse', 'earthpower', 'outrage', 'flamecharge']",0.5,5,ubers,0.0
+Blaziken,"['blazekick', 'brickbreak', 'dynamicpunch', 'heatwave', 'focusblast', 'aerialace']",0.25,5,ubers,0.0
+Kyurem-White,"['dragonpulse', 'fusionflare', 'icebeam', 'dracometeor', 'fly', 'earthpower']",0.3333333333333333,5,ubers,0.0
+Exeggutor,"['hypnosis', 'leafstorm', 'solarbeam', 'extrasensory']",0.08333333333333333,5,ubers,0.0
+Garchomp,"['dracometeor', 'dragontail', 'earthpower', 'dragonpulse', 'dragonrush', 'swordsdance']",0.16666666666666666,5,ubers,0.0
+Genesect,"['flamethrower', 'thunderbolt', 'bugbuzz', 'uturn', 'explosion', 'darkpulse']",0.4166666666666667,5,ubers,0.0
+Blastoise,"['hydropump', 'hydrocannon', 'bite', 'waterpulse', 'bodyslam', 'rapidspin']",0.16666666666666666,5,ubers,0.0
+Kyurem-Black,"['blizzard', 'fusionbolt', 'earthpower', 'dragonpulse', 'flashcannon', 'sleeptalk']",0.25,5,ubers,0.0
+Ferrothorn,"['powerwhip', 'leechseed', 'spikes', 'gyroball', 'stealthrock', 'thunderwave']",0.3333333333333333,5,ubers,0.0
+Blissey,"['toxic', 'wish', 'protect', 'seismictoss']",0.16666666666666666,5,ubers,0.0
+Dragonite,"['dragonrush', 'hurricane', 'aquatail', 'dracometeor']",0.08333333333333333,5,ubers,0.0
+Shaymin-Sky,"['seedflare', 'earthpower', 'airslash', 'gigadrain', 'leechseed', 'psychic']",0.25,5,ubers,0.0
+Excadrill,"['rapidspin', 'earthquake', 'swordsdance', 'rockslide', 'substitute', 'protect']",0.5,5,ubers,0.0
+Latios,"['thunder', 'energyball', 'psyshock', 'dragonpulse']",0.08333333333333333,5,ubers,0.0
+Gothitelle,"['trick', 'psychic', 'grassknot']",0.08333333333333333,5,ubers,0.0
+Smeargle,"['spore', 'batonpass', 'swordsdance', 'shellsmash', 'fakeout', 'substitute']",0.16666666666666666,5,ubers,0.0
+Darmanitan,"['hammerarm', 'firepunch', 'stoneedge', 'earthquake']",0.08333333333333333,5,ubers,0.0
+Kyogre,"['icebeam', 'thunder', 'waterspout', 'hydropump', 'surf', 'scald']",0.8333333333333334,5,ubers,0.0
+Giratina-Origin,"['outrage', 'shadowsneak', 'earthquake', 'shadowclaw', 'roar', 'ironhead']",0.4166666666666667,5,ubers,0.0
+Pidgeot,"['fly', 'bravebird', 'aerialace', 'airslash']",0.08333333333333333,5,ubers,0.0
+Regigigas,"['focuspunch', 'focusblast', 'earthquake', 'superpower']",0.08333333333333333,5,ubers,0.0
+Deoxys-Attack,"['spikes', 'thunderbolt', 'psychic', 'icepunch', 'gravity', 'poisonjab']",0.25,5,ubers,0.0
+Steelix,"['dragontail', 'earthquake', 'aquatail']",0.08333333333333333,5,ubers,0.0
+Bisharp,"['ironhead', 'swordsdance', 'suckerpunch', 'aerialace']",0.08333333333333333,5,ubers,0.0
+Espeon,"['shadowball', 'psychic', 'calmmind', 'reflect', 'yawn', 'grassknot']",0.25,5,ubers,0.0
+Krookodile,"['dragonclaw', 'knockoff', 'earthquake', 'rockslide']",0.08333333333333333,5,ubers,0.0
+Machamp,"['payback', 'firepunch', 'crosschop', 'closecombat']",0.08333333333333333,5,ubers,0.0
+Landorus,"['uturn', 'earthquake', 'superpower', 'stoneedge']",0.08333333333333333,5,ubers,0.0
+Groudon,"['earthquake', 'firepunch', 'stoneedge', 'stealthrock', 'hammerarm', 'dragonclaw']",0.5,5,ubers,0.0
+Azumarill,"['protect', 'perishsong', 'aquajet', 'whirlpool']",0.08333333333333333,5,ubers,0.0
+Lugia,"['aeroblast', 'dragontail', 'extrasensory', 'gigadrain', 'psychic', 'roost']",0.25,5,ubers,0.0
+Arceus-Ice,"['extremespeed', 'blizzard', 'hail', 'icebeam']",0.08333333333333333,5,ubers,0.0
+Raichu,"['electroball', 'volttackle', 'agility', 'thunderbolt', 'doubleedge', 'discharge']",0.16666666666666666,5,ubers,0.0
+Dugtrio,"['suckerpunch', 'earthquake', 'protect', 'honeclaws', 'stoneedge', 'pursuit']",0.16666666666666666,5,ubers,0.0
+Hydreigon,"['outrage', 'surf', 'zenheadbutt', 'firefang']",0.08333333333333333,5,ubers,0.0
+Ho-Oh,"['bravebird', 'roost', 'sacredfire', 'earthquake', 'gigadrain', 'tailwind']",0.25,5,ubers,0.0
+Arcanine,"['howl', 'extremespeed', 'firefang', 'flareblitz']",0.08333333333333333,5,ubers,0.0
+Shedinja,"['swordsdance', 'protect', 'shadowclaw', 'suckerpunch']",0.08333333333333333,5,ubers,0.0
+Carracosta,"['crunch', 'aquajet', 'shellsmash', 'stoneedge']",0.08333333333333333,5,ubers,0.0
+Serperior,"['gigadrain', 'energyball', 'leafstorm', 'leafblade', 'frenzyplant', 'sunnyday']",0.4166666666666667,5,ubers,0.0
+Umbreon,"['toxic', 'foulplay', 'moonlight', 'healbell', 'curse', 'wish']",0.25,5,ubers,0.0
+Forretress,"['rapidspin', 'spikes', 'stealthrock', 'explosion', 'voltswitch', 'gyroball']",0.25,5,ubers,0.0
+Omastar,"['hydropump', 'scald', 'earthpower', 'icebeam']",0.08333333333333333,5,ubers,0.0
+Alakazam,"['barrier', 'psybeam', 'shadowball', 'psychic', 'focusblast', 'psychocut']",0.16666666666666666,5,ubers,0.0
+Victini,"['blueflare', 'protect', 'gigaimpact', 'vcreate', 'flamecharge', 'fireblast']",0.16666666666666666,5,ubers,0.0
+Dialga,"['aurasphere', 'flashcannon', 'roaroftime', 'dragonpulse']",0.08333333333333333,5,ubers,0.0
+Floatzel,"['hydropump', 'agility', 'batonpass', 'substitute']",0.08333333333333333,5,ubers,0.0
+Darkrai,"['darkvoid', 'darkpulse', 'focusblast', 'thunder', 'spacialrend', 'dreameater']",0.5,5,ubers,0.0
+Kingdra,"['hydropump', 'substitute', 'dracometeor', 'dragonpulse']",0.08333333333333333,5,ubers,0.0
