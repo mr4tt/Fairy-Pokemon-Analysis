@@ -1,0 +1,860 @@
+,move,name,type
+0,10000000voltthunderbolt,"10,000,000 Volt Thunderbolt",Electric
+1,absorb,Absorb,Grass
+2,accelerock,Accelerock,Rock
+3,acid,Acid,Poison
+4,acidarmor,Acid Armor,Poison
+5,aciddownpour,Acid Downpour,Poison
+6,acidspray,Acid Spray,Poison
+7,acrobatics,Acrobatics,Flying
+8,acupressure,Acupressure,Normal
+9,aerialace,Aerial Ace,Flying
+10,aeroblast,Aeroblast,Flying
+11,afteryou,After You,Normal
+12,agility,Agility,Psychic
+13,aircutter,Air Cutter,Flying
+14,airslash,Air Slash,Flying
+15,alloutpummeling,All-Out Pummeling,Fighting
+16,allyswitch,Ally Switch,Psychic
+17,amnesia,Amnesia,Psychic
+18,anchorshot,Anchor Shot,Steel
+19,ancientpower,Ancient Power,Rock
+20,appleacid,Apple Acid,Grass
+21,aquajet,Aqua Jet,Water
+22,aquaring,Aqua Ring,Water
+23,aquatail,Aqua Tail,Water
+24,armthrust,Arm Thrust,Fighting
+25,aromatherapy,Aromatherapy,Grass
+26,aromaticmist,Aromatic Mist,Fairy
+27,assist,Assist,Normal
+28,assurance,Assurance,Dark
+29,astonish,Astonish,Ghost
+30,astralbarrage,Astral Barrage,Ghost
+31,attackorder,Attack Order,Bug
+32,attract,Attract,Normal
+33,aurasphere,Aura Sphere,Fighting
+34,aurawheel,Aura Wheel,Electric
+35,aurorabeam,Aurora Beam,Ice
+36,auroraveil,Aurora Veil,Ice
+37,autotomize,Autotomize,Steel
+38,avalanche,Avalanche,Ice
+39,babydolleyes,Baby-Doll Eyes,Fairy
+40,baddybad,Baddy Bad,Dark
+41,banefulbunker,Baneful Bunker,Poison
+42,barrage,Barrage,Normal
+43,barrier,Barrier,Psychic
+44,batonpass,Baton Pass,Normal
+45,beakblast,Beak Blast,Flying
+46,beatup,Beat Up,Dark
+47,behemothbash,Behemoth Bash,Steel
+48,behemothblade,Behemoth Blade,Steel
+49,belch,Belch,Poison
+50,bellydrum,Belly Drum,Normal
+51,bestow,Bestow,Normal
+52,bide,Bide,Normal
+53,bind,Bind,Normal
+54,bite,Bite,Dark
+55,blackholeeclipse,Black Hole Eclipse,Dark
+56,blastburn,Blast Burn,Fire
+57,blazekick,Blaze Kick,Fire
+58,blizzard,Blizzard,Ice
+59,block,Block,Normal
+60,bloomdoom,Bloom Doom,Grass
+61,blueflare,Blue Flare,Fire
+62,bodypress,Body Press,Fighting
+63,bodyslam,Body Slam,Normal
+64,boltbeak,Bolt Beak,Electric
+65,boltstrike,Bolt Strike,Electric
+66,boneclub,Bone Club,Ground
+67,bonemerang,Bonemerang,Ground
+68,bonerush,Bone Rush,Ground
+69,boomburst,Boomburst,Normal
+70,bounce,Bounce,Flying
+71,bouncybubble,Bouncy Bubble,Water
+72,branchpoke,Branch Poke,Grass
+73,bravebird,Brave Bird,Flying
+74,breakingswipe,Breaking Swipe,Dragon
+75,breakneckblitz,Breakneck Blitz,Normal
+76,brickbreak,Brick Break,Fighting
+77,brine,Brine,Water
+78,brutalswing,Brutal Swing,Dark
+79,bubble,Bubble,Water
+80,bubblebeam,Bubble Beam,Water
+81,bugbite,Bug Bite,Bug
+82,bugbuzz,Bug Buzz,Bug
+83,bulkup,Bulk Up,Fighting
+84,bulldoze,Bulldoze,Ground
+85,bulletpunch,Bullet Punch,Steel
+86,bulletseed,Bullet Seed,Grass
+87,burningjealousy,Burning Jealousy,Fire
+88,burnup,Burn Up,Fire
+89,buzzybuzz,Buzzy Buzz,Electric
+90,calmmind,Calm Mind,Psychic
+91,camouflage,Camouflage,Normal
+92,captivate,Captivate,Normal
+93,catastropika,Catastropika,Electric
+94,celebrate,Celebrate,Normal
+95,charge,Charge,Electric
+96,chargebeam,Charge Beam,Electric
+97,charm,Charm,Fairy
+98,chatter,Chatter,Flying
+99,chipaway,Chip Away,Normal
+100,circlethrow,Circle Throw,Fighting
+101,clamp,Clamp,Water
+102,clangingscales,Clanging Scales,Dragon
+103,clangoroussoul,Clangorous Soul,Dragon
+104,clangoroussoulblaze,Clangorous Soulblaze,Dragon
+105,clearsmog,Clear Smog,Poison
+106,closecombat,Close Combat,Fighting
+107,coaching,Coaching,Fighting
+108,coil,Coil,Poison
+109,cometpunch,Comet Punch,Normal
+110,confide,Confide,Normal
+111,confuseray,Confuse Ray,Ghost
+112,confusion,Confusion,Psychic
+113,constrict,Constrict,Normal
+114,continentalcrush,Continental Crush,Rock
+115,conversion,Conversion,Normal
+116,conversion2,Conversion 2,Normal
+117,copycat,Copycat,Normal
+118,coreenforcer,Core Enforcer,Dragon
+119,corkscrewcrash,Corkscrew Crash,Steel
+120,corrosivegas,Corrosive Gas,Poison
+121,cosmicpower,Cosmic Power,Psychic
+122,cottonguard,Cotton Guard,Grass
+123,cottonspore,Cotton Spore,Grass
+124,counter,Counter,Fighting
+125,courtchange,Court Change,Normal
+126,covet,Covet,Normal
+127,crabhammer,Crabhammer,Water
+128,craftyshield,Crafty Shield,Fairy
+129,crosschop,Cross Chop,Fighting
+130,crosspoison,Cross Poison,Poison
+131,crunch,Crunch,Dark
+132,crushclaw,Crush Claw,Normal
+133,crushgrip,Crush Grip,Normal
+134,curse,Curse,Ghost
+135,cut,Cut,Normal
+136,darkestlariat,Darkest Lariat,Dark
+137,darkpulse,Dark Pulse,Dark
+138,darkvoid,Dark Void,Dark
+139,dazzlinggleam,Dazzling Gleam,Fairy
+140,decorate,Decorate,Fairy
+141,defendorder,Defend Order,Bug
+142,defensecurl,Defense Curl,Normal
+143,defog,Defog,Flying
+144,destinybond,Destiny Bond,Ghost
+145,detect,Detect,Fighting
+146,devastatingdrake,Devastating Drake,Dragon
+147,diamondstorm,Diamond Storm,Rock
+148,dig,Dig,Ground
+149,disable,Disable,Normal
+150,disarmingvoice,Disarming Voice,Fairy
+151,discharge,Discharge,Electric
+152,dive,Dive,Water
+153,dizzypunch,Dizzy Punch,Normal
+154,doomdesire,Doom Desire,Steel
+155,doubleedge,Double-Edge,Normal
+156,doublehit,Double Hit,Normal
+157,doubleironbash,Double Iron Bash,Steel
+158,doublekick,Double Kick,Fighting
+159,doubleslap,Double Slap,Normal
+160,doubleteam,Double Team,Normal
+161,dracometeor,Draco Meteor,Dragon
+162,dragonascent,Dragon Ascent,Flying
+163,dragonbreath,Dragon Breath,Dragon
+164,dragonclaw,Dragon Claw,Dragon
+165,dragondance,Dragon Dance,Dragon
+166,dragondarts,Dragon Darts,Dragon
+167,dragonenergy,Dragon Energy,Dragon
+168,dragonhammer,Dragon Hammer,Dragon
+169,dragonpulse,Dragon Pulse,Dragon
+170,dragonrage,Dragon Rage,Dragon
+171,dragonrush,Dragon Rush,Dragon
+172,dragontail,Dragon Tail,Dragon
+173,drainingkiss,Draining Kiss,Fairy
+174,drainpunch,Drain Punch,Fighting
+175,dreameater,Dream Eater,Psychic
+176,drillpeck,Drill Peck,Flying
+177,drillrun,Drill Run,Ground
+178,drumbeating,Drum Beating,Grass
+179,dualchop,Dual Chop,Dragon
+180,dualwingbeat,Dual Wingbeat,Flying
+181,dynamaxcannon,Dynamax Cannon,Dragon
+182,dynamicpunch,Dynamic Punch,Fighting
+183,earthpower,Earth Power,Ground
+184,earthquake,Earthquake,Ground
+185,echoedvoice,Echoed Voice,Normal
+186,eerieimpulse,Eerie Impulse,Electric
+187,eeriespell,Eerie Spell,Psychic
+188,eggbomb,Egg Bomb,Normal
+189,electricterrain,Electric Terrain,Electric
+190,electrify,Electrify,Electric
+191,electroball,Electro Ball,Electric
+192,electroweb,Electroweb,Electric
+193,embargo,Embargo,Dark
+194,ember,Ember,Fire
+195,encore,Encore,Normal
+196,endeavor,Endeavor,Normal
+197,endure,Endure,Normal
+198,energyball,Energy Ball,Grass
+199,entrainment,Entrainment,Normal
+200,eruption,Eruption,Fire
+201,eternabeam,Eternabeam,Dragon
+202,expandingforce,Expanding Force,Psychic
+203,explosion,Explosion,Normal
+204,extrasensory,Extrasensory,Psychic
+205,extremeevoboost,Extreme Evoboost,Normal
+206,extremespeed,Extreme Speed,Normal
+207,facade,Facade,Normal
+208,fairylock,Fairy Lock,Fairy
+209,fairywind,Fairy Wind,Fairy
+210,fakeout,Fake Out,Normal
+211,faketears,Fake Tears,Dark
+212,falsesurrender,False Surrender,Dark
+213,falseswipe,False Swipe,Normal
+214,featherdance,Feather Dance,Flying
+215,feint,Feint,Normal
+216,feintattack,Feint Attack,Dark
+217,fellstinger,Fell Stinger,Bug
+218,fierydance,Fiery Dance,Fire
+219,fierywrath,Fiery Wrath,Dark
+220,finalgambit,Final Gambit,Fighting
+221,fireblast,Fire Blast,Fire
+222,firefang,Fire Fang,Fire
+223,firelash,Fire Lash,Fire
+224,firepledge,Fire Pledge,Fire
+225,firepunch,Fire Punch,Fire
+226,firespin,Fire Spin,Fire
+227,firstimpression,First Impression,Bug
+228,fishiousrend,Fishious Rend,Water
+229,fissure,Fissure,Ground
+230,flail,Flail,Normal
+231,flameburst,Flame Burst,Fire
+232,flamecharge,Flame Charge,Fire
+233,flamewheel,Flame Wheel,Fire
+234,flamethrower,Flamethrower,Fire
+235,flareblitz,Flare Blitz,Fire
+236,flash,Flash,Normal
+237,flashcannon,Flash Cannon,Steel
+238,flatter,Flatter,Dark
+239,fleurcannon,Fleur Cannon,Fairy
+240,fling,Fling,Dark
+241,flipturn,Flip Turn,Water
+242,floatyfall,Floaty Fall,Flying
+243,floralhealing,Floral Healing,Fairy
+244,flowershield,Flower Shield,Fairy
+245,fly,Fly,Flying
+246,flyingpress,Flying Press,Fighting
+247,focusblast,Focus Blast,Fighting
+248,focusenergy,Focus Energy,Normal
+249,focuspunch,Focus Punch,Fighting
+250,followme,Follow Me,Normal
+251,forcepalm,Force Palm,Fighting
+252,foresight,Foresight,Normal
+253,forestscurse,Forest's Curse,Grass
+254,foulplay,Foul Play,Dark
+255,freezedry,Freeze-Dry,Ice
+256,freezeshock,Freeze Shock,Ice
+257,freezingglare,Freezing Glare,Psychic
+258,freezyfrost,Freezy Frost,Ice
+259,frenzyplant,Frenzy Plant,Grass
+260,frostbreath,Frost Breath,Ice
+261,frustration,Frustration,Normal
+262,furyattack,Fury Attack,Normal
+263,furycutter,Fury Cutter,Bug
+264,furyswipes,Fury Swipes,Normal
+265,fusionbolt,Fusion Bolt,Electric
+266,fusionflare,Fusion Flare,Fire
+267,futuresight,Future Sight,Psychic
+268,gastroacid,Gastro Acid,Poison
+269,geargrind,Gear Grind,Steel
+270,gearup,Gear Up,Steel
+271,genesissupernova,Genesis Supernova,Psychic
+272,geomancy,Geomancy,Fairy
+273,gigadrain,Giga Drain,Grass
+274,gigaimpact,Giga Impact,Normal
+275,gigavolthavoc,Gigavolt Havoc,Electric
+276,glaciallance,Glacial Lance,Ice
+277,glaciate,Glaciate,Ice
+278,glare,Glare,Normal
+279,glitzyglow,Glitzy Glow,Psychic
+280,gmaxbefuddle,G-Max Befuddle,Bug
+281,gmaxcannonade,G-Max Cannonade,Water
+282,gmaxcentiferno,G-Max Centiferno,Fire
+283,gmaxchistrike,G-Max Chi Strike,Fighting
+284,gmaxcuddle,G-Max Cuddle,Normal
+285,gmaxdepletion,G-Max Depletion,Dragon
+286,gmaxdrumsolo,G-Max Drum Solo,Grass
+287,gmaxfinale,G-Max Finale,Fairy
+288,gmaxfireball,G-Max Fireball,Fire
+289,gmaxfoamburst,G-Max Foam Burst,Water
+290,gmaxgoldrush,G-Max Gold Rush,Normal
+291,gmaxgravitas,G-Max Gravitas,Psychic
+292,gmaxhydrosnipe,G-Max Hydrosnipe,Water
+293,gmaxmalodor,G-Max Malodor,Poison
+294,gmaxmeltdown,G-Max Meltdown,Steel
+295,gmaxoneblow,G-Max One Blow,Dark
+296,gmaxrapidflow,G-Max Rapid Flow,Water
+297,gmaxreplenish,G-Max Replenish,Normal
+298,gmaxresonance,G-Max Resonance,Ice
+299,gmaxsandblast,G-Max Sandblast,Ground
+300,gmaxsmite,G-Max Smite,Fairy
+301,gmaxsnooze,G-Max Snooze,Dark
+302,gmaxsteelsurge,G-Max Steelsurge,Steel
+303,gmaxstonesurge,G-Max Stonesurge,Water
+304,gmaxstunshock,G-Max Stun Shock,Electric
+305,gmaxsweetness,G-Max Sweetness,Grass
+306,gmaxtartness,G-Max Tartness,Grass
+307,gmaxterror,G-Max Terror,Ghost
+308,gmaxvinelash,G-Max Vine Lash,Grass
+309,gmaxvolcalith,G-Max Volcalith,Rock
+310,gmaxvoltcrash,G-Max Volt Crash,Electric
+311,gmaxwildfire,G-Max Wildfire,Fire
+312,gmaxwindrage,G-Max Wind Rage,Flying
+313,grassknot,Grass Knot,Grass
+314,grasspledge,Grass Pledge,Grass
+315,grasswhistle,Grass Whistle,Grass
+316,grassyglide,Grassy Glide,Grass
+317,grassyterrain,Grassy Terrain,Grass
+318,gravapple,Grav Apple,Grass
+319,gravity,Gravity,Psychic
+320,growl,Growl,Normal
+321,growth,Growth,Normal
+322,grudge,Grudge,Ghost
+323,guardianofalola,Guardian of Alola,Fairy
+324,guardsplit,Guard Split,Psychic
+325,guardswap,Guard Swap,Psychic
+326,guillotine,Guillotine,Normal
+327,gunkshot,Gunk Shot,Poison
+328,gust,Gust,Flying
+329,gyroball,Gyro Ball,Steel
+330,hail,Hail,Ice
+331,hammerarm,Hammer Arm,Fighting
+332,happyhour,Happy Hour,Normal
+333,harden,Harden,Normal
+334,haze,Haze,Ice
+335,headbutt,Headbutt,Normal
+336,headcharge,Head Charge,Normal
+337,headsmash,Head Smash,Rock
+338,healbell,Heal Bell,Normal
+339,healblock,Heal Block,Psychic
+340,healingwish,Healing Wish,Psychic
+341,healorder,Heal Order,Bug
+342,healpulse,Heal Pulse,Psychic
+343,heartstamp,Heart Stamp,Psychic
+344,heartswap,Heart Swap,Psychic
+345,heatcrash,Heat Crash,Fire
+346,heatwave,Heat Wave,Fire
+347,heavyslam,Heavy Slam,Steel
+348,helpinghand,Helping Hand,Normal
+349,hex,Hex,Ghost
+350,hiddenpower,Hidden Power,Normal
+351,hiddenpowerbug,Hidden Power Bug,Bug
+352,hiddenpowerdark,Hidden Power Dark,Dark
+353,hiddenpowerdragon,Hidden Power Dragon,Dragon
+354,hiddenpowerelectric,Hidden Power Electric,Electric
+355,hiddenpowerfighting,Hidden Power Fighting,Fighting
+356,hiddenpowerfire,Hidden Power Fire,Fire
+357,hiddenpowerflying,Hidden Power Flying,Flying
+358,hiddenpowerghost,Hidden Power Ghost,Ghost
+359,hiddenpowergrass,Hidden Power Grass,Grass
+360,hiddenpowerground,Hidden Power Ground,Ground
+361,hiddenpowerice,Hidden Power Ice,Ice
+362,hiddenpowerpoison,Hidden Power Poison,Poison
+363,hiddenpowerpsychic,Hidden Power Psychic,Psychic
+364,hiddenpowerrock,Hidden Power Rock,Rock
+365,hiddenpowersteel,Hidden Power Steel,Steel
+366,hiddenpowerwater,Hidden Power Water,Water
+367,highhorsepower,High Horsepower,Ground
+368,highjumpkick,High Jump Kick,Fighting
+369,holdback,Hold Back,Normal
+370,holdhands,Hold Hands,Normal
+371,honeclaws,Hone Claws,Dark
+372,hornattack,Horn Attack,Normal
+373,horndrill,Horn Drill,Normal
+374,hornleech,Horn Leech,Grass
+375,howl,Howl,Normal
+376,hurricane,Hurricane,Flying
+377,hydrocannon,Hydro Cannon,Water
+378,hydropump,Hydro Pump,Water
+379,hydrovortex,Hydro Vortex,Water
+380,hyperbeam,Hyper Beam,Normal
+381,hyperfang,Hyper Fang,Normal
+382,hyperspacefury,Hyperspace Fury,Dark
+383,hyperspacehole,Hyperspace Hole,Psychic
+384,hypervoice,Hyper Voice,Normal
+385,hypnosis,Hypnosis,Psychic
+386,iceball,Ice Ball,Ice
+387,icebeam,Ice Beam,Ice
+388,iceburn,Ice Burn,Ice
+389,icefang,Ice Fang,Ice
+390,icehammer,Ice Hammer,Ice
+391,icepunch,Ice Punch,Ice
+392,iceshard,Ice Shard,Ice
+393,iciclecrash,Icicle Crash,Ice
+394,iciclespear,Icicle Spear,Ice
+395,icywind,Icy Wind,Ice
+396,imprison,Imprison,Psychic
+397,incinerate,Incinerate,Fire
+398,inferno,Inferno,Fire
+399,infernooverdrive,Inferno Overdrive,Fire
+400,infestation,Infestation,Bug
+401,ingrain,Ingrain,Grass
+402,instruct,Instruct,Psychic
+403,iondeluge,Ion Deluge,Electric
+404,irondefense,Iron Defense,Steel
+405,ironhead,Iron Head,Steel
+406,irontail,Iron Tail,Steel
+407,jawlock,Jaw Lock,Dark
+408,judgment,Judgment,Normal
+409,jumpkick,Jump Kick,Fighting
+410,junglehealing,Jungle Healing,Grass
+411,karatechop,Karate Chop,Fighting
+412,kinesis,Kinesis,Psychic
+413,kingsshield,King's Shield,Steel
+414,knockoff,Knock Off,Dark
+415,landswrath,Land's Wrath,Ground
+416,laserfocus,Laser Focus,Normal
+417,lashout,Lash Out,Dark
+418,lastresort,Last Resort,Normal
+419,lavaplume,Lava Plume,Fire
+420,leafage,Leafage,Grass
+421,leafblade,Leaf Blade,Grass
+422,leafstorm,Leaf Storm,Grass
+423,leaftornado,Leaf Tornado,Grass
+424,leechlife,Leech Life,Bug
+425,leechseed,Leech Seed,Grass
+426,leer,Leer,Normal
+427,letssnuggleforever,Let's Snuggle Forever,Fairy
+428,lick,Lick,Ghost
+429,lifedew,Life Dew,Water
+430,lightofruin,Light of Ruin,Fairy
+431,lightscreen,Light Screen,Psychic
+432,lightthatburnsthesky,Light That Burns the Sky,Psychic
+433,liquidation,Liquidation,Water
+434,lockon,Lock-On,Normal
+435,lovelykiss,Lovely Kiss,Normal
+436,lowkick,Low Kick,Fighting
+437,lowsweep,Low Sweep,Fighting
+438,luckychant,Lucky Chant,Normal
+439,lunardance,Lunar Dance,Psychic
+440,lunge,Lunge,Bug
+441,lusterpurge,Luster Purge,Psychic
+442,machpunch,Mach Punch,Fighting
+443,magicalleaf,Magical Leaf,Grass
+444,magiccoat,Magic Coat,Psychic
+445,magicpowder,Magic Powder,Psychic
+446,magicroom,Magic Room,Psychic
+447,magmastorm,Magma Storm,Fire
+448,magnetbomb,Magnet Bomb,Steel
+449,magneticflux,Magnetic Flux,Electric
+450,magnetrise,Magnet Rise,Electric
+451,magnitude,Magnitude,Ground
+452,maliciousmoonsault,Malicious Moonsault,Dark
+453,matblock,Mat Block,Fighting
+454,maxairstream,Max Airstream,Flying
+455,maxdarkness,Max Darkness,Dark
+456,maxflare,Max Flare,Fire
+457,maxflutterby,Max Flutterby,Bug
+458,maxgeyser,Max Geyser,Water
+459,maxguard,Max Guard,Normal
+460,maxhailstorm,Max Hailstorm,Ice
+461,maxknuckle,Max Knuckle,Fighting
+462,maxlightning,Max Lightning,Electric
+463,maxmindstorm,Max Mindstorm,Psychic
+464,maxooze,Max Ooze,Poison
+465,maxovergrowth,Max Overgrowth,Grass
+466,maxphantasm,Max Phantasm,Ghost
+467,maxquake,Max Quake,Ground
+468,maxrockfall,Max Rockfall,Rock
+469,maxstarfall,Max Starfall,Fairy
+470,maxsteelspike,Max Steelspike,Steel
+471,maxstrike,Max Strike,Normal
+472,maxwyrmwind,Max Wyrmwind,Dragon
+473,meanlook,Mean Look,Normal
+474,meditate,Meditate,Psychic
+475,mefirst,Me First,Normal
+476,megadrain,Mega Drain,Grass
+477,megahorn,Megahorn,Bug
+478,megakick,Mega Kick,Normal
+479,megapunch,Mega Punch,Normal
+480,memento,Memento,Dark
+481,menacingmoonrazemaelstrom,Menacing Moonraze Maelstrom,Ghost
+482,metalburst,Metal Burst,Steel
+483,metalclaw,Metal Claw,Steel
+484,metalsound,Metal Sound,Steel
+485,meteorassault,Meteor Assault,Fighting
+486,meteorbeam,Meteor Beam,Rock
+487,meteormash,Meteor Mash,Steel
+488,metronome,Metronome,Normal
+489,milkdrink,Milk Drink,Normal
+490,mimic,Mimic,Normal
+491,mindblown,Mind Blown,Fire
+492,mindreader,Mind Reader,Normal
+493,minimize,Minimize,Normal
+494,miracleeye,Miracle Eye,Psychic
+495,mirrorcoat,Mirror Coat,Psychic
+496,mirrormove,Mirror Move,Flying
+497,mirrorshot,Mirror Shot,Steel
+498,mist,Mist,Ice
+499,mistball,Mist Ball,Psychic
+500,mistyexplosion,Misty Explosion,Fairy
+501,mistyterrain,Misty Terrain,Fairy
+502,moonblast,Moonblast,Fairy
+503,moongeistbeam,Moongeist Beam,Ghost
+504,moonlight,Moonlight,Fairy
+505,morningsun,Morning Sun,Normal
+506,mudbomb,Mud Bomb,Ground
+507,mudshot,Mud Shot,Ground
+508,mudslap,Mud-Slap,Ground
+509,mudsport,Mud Sport,Ground
+510,muddywater,Muddy Water,Water
+511,multiattack,Multi-Attack,Normal
+512,mysticalfire,Mystical Fire,Fire
+513,nastyplot,Nasty Plot,Dark
+514,naturalgift,Natural Gift,Normal
+515,naturepower,Nature Power,Normal
+516,naturesmadness,Nature's Madness,Fairy
+517,needlearm,Needle Arm,Grass
+518,neverendingnightmare,Never-Ending Nightmare,Ghost
+519,nightdaze,Night Daze,Dark
+520,nightmare,Nightmare,Ghost
+521,nightshade,Night Shade,Ghost
+522,nightslash,Night Slash,Dark
+523,nobleroar,Noble Roar,Normal
+524,noretreat,No Retreat,Fighting
+525,nuzzle,Nuzzle,Electric
+526,oblivionwing,Oblivion Wing,Flying
+527,obstruct,Obstruct,Dark
+528,oceanicoperetta,Oceanic Operetta,Water
+529,octazooka,Octazooka,Water
+530,octolock,Octolock,Fighting
+531,odorsleuth,Odor Sleuth,Normal
+532,ominouswind,Ominous Wind,Ghost
+533,originpulse,Origin Pulse,Water
+534,outrage,Outrage,Dragon
+535,overdrive,Overdrive,Electric
+536,overheat,Overheat,Fire
+537,painsplit,Pain Split,Normal
+538,paleowave,Paleo Wave,Rock
+539,paraboliccharge,Parabolic Charge,Electric
+540,partingshot,Parting Shot,Dark
+541,payback,Payback,Dark
+542,payday,Pay Day,Normal
+543,peck,Peck,Flying
+544,perishsong,Perish Song,Normal
+545,petalblizzard,Petal Blizzard,Grass
+546,petaldance,Petal Dance,Grass
+547,phantomforce,Phantom Force,Ghost
+548,photongeyser,Photon Geyser,Psychic
+549,pikapapow,Pika Papow,Electric
+550,pinmissile,Pin Missile,Bug
+551,plasmafists,Plasma Fists,Electric
+552,playnice,Play Nice,Normal
+553,playrough,Play Rough,Fairy
+554,pluck,Pluck,Flying
+555,poisonfang,Poison Fang,Poison
+556,poisongas,Poison Gas,Poison
+557,poisonjab,Poison Jab,Poison
+558,poisonpowder,Poison Powder,Poison
+559,poisonsting,Poison Sting,Poison
+560,poisontail,Poison Tail,Poison
+561,pollenpuff,Pollen Puff,Bug
+562,poltergeist,Poltergeist,Ghost
+563,pound,Pound,Normal
+564,powder,Powder,Bug
+565,powdersnow,Powder Snow,Ice
+566,powergem,Power Gem,Rock
+567,powersplit,Power Split,Psychic
+568,powerswap,Power Swap,Psychic
+569,powertrick,Power Trick,Psychic
+570,powertrip,Power Trip,Dark
+571,poweruppunch,Power-Up Punch,Fighting
+572,powerwhip,Power Whip,Grass
+573,precipiceblades,Precipice Blades,Ground
+574,present,Present,Normal
+575,prismaticlaser,Prismatic Laser,Psychic
+576,protect,Protect,Normal
+577,psybeam,Psybeam,Psychic
+578,psychup,Psych Up,Normal
+579,psychic,Psychic,Psychic
+580,psychicfangs,Psychic Fangs,Psychic
+581,psychicterrain,Psychic Terrain,Psychic
+582,psychoboost,Psycho Boost,Psychic
+583,psychocut,Psycho Cut,Psychic
+584,psychoshift,Psycho Shift,Psychic
+585,psyshock,Psyshock,Psychic
+586,psystrike,Psystrike,Psychic
+587,psywave,Psywave,Psychic
+588,pulverizingpancake,Pulverizing Pancake,Normal
+589,punishment,Punishment,Dark
+590,purify,Purify,Poison
+591,pursuit,Pursuit,Dark
+592,pyroball,Pyro Ball,Fire
+593,quash,Quash,Dark
+594,quickattack,Quick Attack,Normal
+595,quickguard,Quick Guard,Fighting
+596,quiverdance,Quiver Dance,Bug
+597,rage,Rage,Normal
+598,ragepowder,Rage Powder,Bug
+599,raindance,Rain Dance,Water
+600,rapidspin,Rapid Spin,Normal
+601,razorleaf,Razor Leaf,Grass
+602,razorshell,Razor Shell,Water
+603,razorwind,Razor Wind,Normal
+604,recover,Recover,Normal
+605,recycle,Recycle,Normal
+606,reflect,Reflect,Psychic
+607,reflecttype,Reflect Type,Normal
+608,refresh,Refresh,Normal
+609,relicsong,Relic Song,Normal
+610,rest,Rest,Psychic
+611,retaliate,Retaliate,Normal
+612,return,Return,Normal
+613,revelationdance,Revelation Dance,Normal
+614,revenge,Revenge,Fighting
+615,reversal,Reversal,Fighting
+616,risingvoltage,Rising Voltage,Electric
+617,roar,Roar,Normal
+618,roaroftime,Roar of Time,Dragon
+619,rockblast,Rock Blast,Rock
+620,rockclimb,Rock Climb,Normal
+621,rockpolish,Rock Polish,Rock
+622,rockslide,Rock Slide,Rock
+623,rocksmash,Rock Smash,Fighting
+624,rockthrow,Rock Throw,Rock
+625,rocktomb,Rock Tomb,Rock
+626,rockwrecker,Rock Wrecker,Rock
+627,roleplay,Role Play,Psychic
+628,rollingkick,Rolling Kick,Fighting
+629,rollout,Rollout,Rock
+630,roost,Roost,Flying
+631,rototiller,Rototiller,Ground
+632,round,Round,Normal
+633,sacredfire,Sacred Fire,Fire
+634,sacredsword,Sacred Sword,Fighting
+635,safeguard,Safeguard,Normal
+636,sandattack,Sand Attack,Ground
+637,sandstorm,Sandstorm,Rock
+638,sandtomb,Sand Tomb,Ground
+639,sappyseed,Sappy Seed,Grass
+640,savagespinout,Savage Spin-Out,Bug
+641,scald,Scald,Water
+642,scaleshot,Scale Shot,Dragon
+643,scaryface,Scary Face,Normal
+644,scorchingsands,Scorching Sands,Ground
+645,scratch,Scratch,Normal
+646,screech,Screech,Normal
+647,searingshot,Searing Shot,Fire
+648,searingsunrazesmash,Searing Sunraze Smash,Steel
+649,secretpower,Secret Power,Normal
+650,secretsword,Secret Sword,Fighting
+651,seedbomb,Seed Bomb,Grass
+652,seedflare,Seed Flare,Grass
+653,seismictoss,Seismic Toss,Fighting
+654,selfdestruct,Self-Destruct,Normal
+655,shadowball,Shadow Ball,Ghost
+656,shadowbone,Shadow Bone,Ghost
+657,shadowclaw,Shadow Claw,Ghost
+658,shadowforce,Shadow Force,Ghost
+659,shadowpunch,Shadow Punch,Ghost
+660,shadowsneak,Shadow Sneak,Ghost
+661,shadowstrike,Shadow Strike,Ghost
+662,sharpen,Sharpen,Normal
+663,shatteredpsyche,Shattered Psyche,Psychic
+664,sheercold,Sheer Cold,Ice
+665,shellsidearm,Shell Side Arm,Poison
+666,shellsmash,Shell Smash,Normal
+667,shelltrap,Shell Trap,Fire
+668,shiftgear,Shift Gear,Steel
+669,shockwave,Shock Wave,Electric
+670,shoreup,Shore Up,Ground
+671,signalbeam,Signal Beam,Bug
+672,silverwind,Silver Wind,Bug
+673,simplebeam,Simple Beam,Normal
+674,sing,Sing,Normal
+675,sinisterarrowraid,Sinister Arrow Raid,Ghost
+676,sizzlyslide,Sizzly Slide,Fire
+677,sketch,Sketch,Normal
+678,skillswap,Skill Swap,Psychic
+679,skittersmack,Skitter Smack,Bug
+680,skullbash,Skull Bash,Normal
+681,skyattack,Sky Attack,Flying
+682,skydrop,Sky Drop,Flying
+683,skyuppercut,Sky Uppercut,Fighting
+684,slackoff,Slack Off,Normal
+685,slam,Slam,Normal
+686,slash,Slash,Normal
+687,sleeppowder,Sleep Powder,Grass
+688,sleeptalk,Sleep Talk,Normal
+689,sludge,Sludge,Poison
+690,sludgebomb,Sludge Bomb,Poison
+691,sludgewave,Sludge Wave,Poison
+692,smackdown,Smack Down,Rock
+693,smartstrike,Smart Strike,Steel
+694,smellingsalts,Smelling Salts,Normal
+695,smog,Smog,Poison
+696,smokescreen,Smokescreen,Normal
+697,snaptrap,Snap Trap,Grass
+698,snarl,Snarl,Dark
+699,snatch,Snatch,Dark
+700,snipeshot,Snipe Shot,Water
+701,snore,Snore,Normal
+702,soak,Soak,Water
+703,softboiled,Soft-Boiled,Normal
+704,solarbeam,Solar Beam,Grass
+705,solarblade,Solar Blade,Grass
+706,sonicboom,Sonic Boom,Normal
+707,soulstealing7starstrike,Soul-Stealing 7-Star Strike,Ghost
+708,spacialrend,Spacial Rend,Dragon
+709,spark,Spark,Electric
+710,sparklingaria,Sparkling Aria,Water
+711,sparklyswirl,Sparkly Swirl,Fairy
+712,spectralthief,Spectral Thief,Ghost
+713,speedswap,Speed Swap,Psychic
+714,spiderweb,Spider Web,Bug
+715,spikecannon,Spike Cannon,Normal
+716,spikes,Spikes,Ground
+717,spikyshield,Spiky Shield,Grass
+718,spiritbreak,Spirit Break,Fairy
+719,spiritshackle,Spirit Shackle,Ghost
+720,spitup,Spit Up,Normal
+721,spite,Spite,Ghost
+722,splash,Splash,Normal
+723,splinteredstormshards,Splintered Stormshards,Rock
+724,splishysplash,Splishy Splash,Water
+725,spore,Spore,Grass
+726,spotlight,Spotlight,Normal
+727,stealthrock,Stealth Rock,Rock
+728,steameruption,Steam Eruption,Water
+729,steamroller,Steamroller,Bug
+730,steelbeam,Steel Beam,Steel
+731,steelroller,Steel Roller,Steel
+732,steelwing,Steel Wing,Steel
+733,stickyweb,Sticky Web,Bug
+734,stockpile,Stockpile,Normal
+735,stokedsparksurfer,Stoked Sparksurfer,Electric
+736,stomp,Stomp,Normal
+737,stompingtantrum,Stomping Tantrum,Ground
+738,stoneedge,Stone Edge,Rock
+739,storedpower,Stored Power,Psychic
+740,stormthrow,Storm Throw,Fighting
+741,strangesteam,Strange Steam,Fairy
+742,strength,Strength,Normal
+743,strengthsap,Strength Sap,Grass
+744,stringshot,String Shot,Bug
+745,struggle,Struggle,Normal
+746,strugglebug,Struggle Bug,Bug
+747,stuffcheeks,Stuff Cheeks,Normal
+748,stunspore,Stun Spore,Grass
+749,submission,Submission,Fighting
+750,substitute,Substitute,Normal
+751,subzeroslammer,Subzero Slammer,Ice
+752,suckerpunch,Sucker Punch,Dark
+753,sunnyday,Sunny Day,Fire
+754,sunsteelstrike,Sunsteel Strike,Steel
+755,superfang,Super Fang,Normal
+756,superpower,Superpower,Fighting
+757,supersonic,Supersonic,Normal
+758,supersonicskystrike,Supersonic Skystrike,Flying
+759,surf,Surf,Water
+760,surgingstrikes,Surging Strikes,Water
+761,swagger,Swagger,Normal
+762,swallow,Swallow,Normal
+763,sweetkiss,Sweet Kiss,Fairy
+764,sweetscent,Sweet Scent,Normal
+765,swift,Swift,Normal
+766,switcheroo,Switcheroo,Dark
+767,swordsdance,Swords Dance,Normal
+768,synchronoise,Synchronoise,Psychic
+769,synthesis,Synthesis,Grass
+770,tackle,Tackle,Normal
+771,tailglow,Tail Glow,Bug
+772,tailslap,Tail Slap,Normal
+773,tailwhip,Tail Whip,Normal
+774,tailwind,Tailwind,Flying
+775,takedown,Take Down,Normal
+776,tarshot,Tar Shot,Rock
+777,taunt,Taunt,Dark
+778,tearfullook,Tearful Look,Normal
+779,teatime,Teatime,Normal
+780,technoblast,Techno Blast,Normal
+781,tectonicrage,Tectonic Rage,Ground
+782,teeterdance,Teeter Dance,Normal
+783,telekinesis,Telekinesis,Psychic
+784,teleport,Teleport,Psychic
+785,terrainpulse,Terrain Pulse,Normal
+786,thief,Thief,Dark
+787,thousandarrows,Thousand Arrows,Ground
+788,thousandwaves,Thousand Waves,Ground
+789,thrash,Thrash,Normal
+790,throatchop,Throat Chop,Dark
+791,thunder,Thunder,Electric
+792,thunderbolt,Thunderbolt,Electric
+793,thundercage,Thunder Cage,Electric
+794,thunderfang,Thunder Fang,Electric
+795,thunderouskick,Thunderous Kick,Fighting
+796,thunderpunch,Thunder Punch,Electric
+797,thundershock,Thunder Shock,Electric
+798,thunderwave,Thunder Wave,Electric
+799,tickle,Tickle,Normal
+800,topsyturvy,Topsy-Turvy,Dark
+801,torment,Torment,Dark
+802,toxic,Toxic,Poison
+803,toxicspikes,Toxic Spikes,Poison
+804,toxicthread,Toxic Thread,Poison
+805,transform,Transform,Normal
+806,triattack,Tri Attack,Normal
+807,trick,Trick,Psychic
+808,trickortreat,Trick-or-Treat,Ghost
+809,trickroom,Trick Room,Psychic
+810,tripleaxel,Triple Axel,Ice
+811,triplekick,Triple Kick,Fighting
+812,tropkick,Trop Kick,Grass
+813,trumpcard,Trump Card,Normal
+814,twineedle,Twineedle,Bug
+815,twinkletackle,Twinkle Tackle,Fairy
+816,twister,Twister,Dragon
+817,uturn,U-turn,Bug
+818,uproar,Uproar,Normal
+819,vacuumwave,Vacuum Wave,Fighting
+820,vcreate,V-create,Fire
+821,veeveevolley,Veevee Volley,Normal
+822,venomdrench,Venom Drench,Poison
+823,venoshock,Venoshock,Poison
+824,vinewhip,Vine Whip,Grass
+825,visegrip,Vise Grip,Normal
+826,vitalthrow,Vital Throw,Fighting
+827,voltswitch,Volt Switch,Electric
+828,volttackle,Volt Tackle,Electric
+829,wakeupslap,Wake-Up Slap,Fighting
+830,waterfall,Waterfall,Water
+831,watergun,Water Gun,Water
+832,waterpledge,Water Pledge,Water
+833,waterpulse,Water Pulse,Water
+834,watershuriken,Water Shuriken,Water
+835,watersport,Water Sport,Water
+836,waterspout,Water Spout,Water
+837,weatherball,Weather Ball,Normal
+838,whirlpool,Whirlpool,Water
+839,whirlwind,Whirlwind,Normal
+840,wickedblow,Wicked Blow,Dark
+841,wideguard,Wide Guard,Rock
+842,wildcharge,Wild Charge,Electric
+843,willowisp,Will-O-Wisp,Fire
+844,wingattack,Wing Attack,Flying
+845,wish,Wish,Normal
+846,withdraw,Withdraw,Water
+847,wonderroom,Wonder Room,Psychic
+848,woodhammer,Wood Hammer,Grass
+849,workup,Work Up,Normal
+850,worryseed,Worry Seed,Grass
+851,wrap,Wrap,Normal
+852,wringout,Wring Out,Normal
+853,xscissor,X-Scissor,Bug
+854,yawn,Yawn,Normal
+855,zapcannon,Zap Cannon,Electric
+856,zenheadbutt,Zen Headbutt,Psychic
+857,zingzap,Zing Zap,Electric
+858,zippyzap,Zippy Zap,Electric
